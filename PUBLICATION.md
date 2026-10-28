@@ -1,6 +1,6 @@
 # Release policy
 
-The public Registry is the single editable catalog. Private snapshots and audit records are archival only.
+The public Registry is the canonical catalog. Private snapshots and audit records remain archival. Maintainer-authorized private corrections start from an exact current public commit, are reviewed there, and transfer only selected patches to a public PR. Keep private history, audit captures and personal metadata out of that transfer.
 
 ## Before every release
 

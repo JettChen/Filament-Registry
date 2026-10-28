@@ -11,10 +11,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#323232",
+      "displayComponents": [
+        "#323232"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
@@ -25,7 +27,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ABS / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8683
+      "catalogOrder": 8683,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-d07b5a64101b8a62",
+      "colorGroup": "color-basf-forward-am-ultrafuse-d07b5a64101b8a62"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-abs-blue",
@@ -35,10 +45,12 @@
       "colorName": "Blue",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#3B80ED",
+      "displayComponents": [
+        "#3B80ED"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
@@ -49,7 +61,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ABS / Blue. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8684
+      "catalogOrder": 8684,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-706eb48ad1b20c81",
+      "colorGroup": "color-basf-forward-am-ultrafuse-706eb48ad1b20c81"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-abs-green",
@@ -59,10 +79,12 @@
       "colorName": "Green",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#63B658",
+      "displayComponents": [
+        "#63B658"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
@@ -73,7 +95,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ABS / Green. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8685
+      "catalogOrder": 8685,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-ef175af0179bd9b7",
+      "colorGroup": "color-basf-forward-am-ultrafuse-ef175af0179bd9b7"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-abs-natural-white",
@@ -83,10 +113,12 @@
       "colorName": "Natural White",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#E9E9E6",
+      "displayComponents": [
+        "#E9E9E6"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
@@ -97,7 +129,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ABS / Natural White. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8686
+      "catalogOrder": 8686,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-f17b91b327e62160",
+      "colorGroup": "color-basf-forward-am-ultrafuse-f17b91b327e62160"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-abs-red",
@@ -107,10 +147,12 @@
       "colorName": "Red",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F64E4E",
+      "displayComponents": [
+        "#F64E4E"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
@@ -121,7 +163,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ABS / Red. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8687
+      "catalogOrder": 8687,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-4d6d9199fbc6a487",
+      "colorGroup": "color-basf-forward-am-ultrafuse-4d6d9199fbc6a487"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-abs-silver",
@@ -131,10 +181,12 @@
       "colorName": "Silver",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#BDBDBD",
+      "displayComponents": [
+        "#BDBDBD"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
@@ -145,7 +197,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ABS / Silver. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8688
+      "catalogOrder": 8688,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-32541d73f06095dd",
+      "colorGroup": "color-basf-forward-am-ultrafuse-32541d73f06095dd"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-abs-yellow",
@@ -155,10 +215,12 @@
       "colorName": "Yellow",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F4B045",
+      "displayComponents": [
+        "#F4B045"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-abs/",
@@ -169,7 +231,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ABS / Yellow. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8689
+      "catalogOrder": 8689,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-4e8f85464c1f44b9",
+      "colorGroup": "color-basf-forward-am-ultrafuse-4e8f85464c1f44b9"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-abs-fusion-grey",
@@ -179,10 +249,12 @@
       "colorName": "Grey",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#A3A3A3",
+      "displayComponents": [
+        "#A3A3A3"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-abs-fusion/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-abs-fusion/",
@@ -193,7 +265,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ABS Fusion+ / Grey. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8690
+      "catalogOrder": 8690,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-b0059b293545c014",
+      "colorGroup": "color-basf-forward-am-ultrafuse-b0059b293545c014"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-abs-fusion-natural",
@@ -203,10 +283,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F6E7CB",
+      "displayComponents": [
+        "#F6E7CB"
+      ],
       "variantLabel": "Manufacturer product image: 2.85 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-abs-fusion/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-abs-fusion/",
@@ -217,7 +299,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ABS Fusion+ / Natural. The image filename and spool artwork identify this line/color; the image package text is 2.85 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8691
+      "catalogOrder": 8691,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-7269fca2b8fd377f",
+      "colorGroup": "color-basf-forward-am-ultrafuse-7269fca2b8fd377f"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-asa-black",
@@ -227,10 +317,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#323232",
+      "displayComponents": [
+        "#323232"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-asa/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-asa/",
@@ -241,7 +333,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ASA / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8692
+      "catalogOrder": 8692,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-d648788432775d63",
+      "colorGroup": "color-basf-forward-am-ultrafuse-d648788432775d63"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-asa-natural",
@@ -251,10 +351,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F7E4C1",
+      "displayComponents": [
+        "#F7E4C1"
+      ],
       "variantLabel": "Manufacturer product image: 2.85 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-asa/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-asa/",
@@ -265,7 +367,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse ASA / Natural. The image filename and spool artwork identify this line/color; the image package text is 2.85 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8693
+      "catalogOrder": 8693,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-f612c5ee450e2a6b",
+      "colorGroup": "color-basf-forward-am-ultrafuse-f612c5ee450e2a6b"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-bvoh-natural",
@@ -275,10 +385,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#D9CFAC",
+      "displayComponents": [
+        "#D9CFAC"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/support-filaments/ultrafuse-bvoh/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/support-filaments/ultrafuse-bvoh/",
@@ -289,7 +401,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse BVOH / Natural. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8694
+      "catalogOrder": 8694,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-40057434ccb397f2",
+      "colorGroup": "color-basf-forward-am-ultrafuse-40057434ccb397f2"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-hips-natural",
@@ -299,10 +419,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F2F3EE",
+      "displayComponents": [
+        "#F2F3EE"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/support-filaments/ultrafuse-hips/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/support-filaments/ultrafuse-hips/",
@@ -313,7 +435,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse HiPS / Natural. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8695
+      "catalogOrder": 8695,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-5f44d0846982f965",
+      "colorGroup": "color-basf-forward-am-ultrafuse-5f44d0846982f965"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pa-black",
@@ -323,10 +453,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#323232",
+      "displayComponents": [
+        "#323232"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pa/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pa/",
@@ -337,7 +469,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PA / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8696
+      "catalogOrder": 8696,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-b7f953331e1ceb8b",
+      "colorGroup": "color-basf-forward-am-ultrafuse-b7f953331e1ceb8b"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pa-natural",
@@ -347,10 +487,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#E9E8E6",
+      "displayComponents": [
+        "#E9E8E6"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pa/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pa/",
@@ -361,7 +503,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PA / Natural. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8697
+      "catalogOrder": 8697,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-82f84a95b4b15a48",
+      "colorGroup": "color-basf-forward-am-ultrafuse-82f84a95b4b15a48"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pa6-gf30-black",
@@ -371,10 +521,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#5B5B5B",
+      "displayComponents": [
+        "#5B5B5B"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-pa6-gf30/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-pa6-gf30/",
@@ -385,7 +537,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PA6 GF30 / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8698
+      "catalogOrder": 8698,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-d88a09a906df38a8",
+      "colorGroup": "color-basf-forward-am-ultrafuse-d88a09a906df38a8"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-paht-cf15-black",
@@ -395,10 +555,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#5B5B5B",
+      "displayComponents": [
+        "#5B5B5B"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-paht-cf15/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-paht-cf15/",
@@ -409,7 +571,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PAHT CF15 / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8699
+      "catalogOrder": 8699,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-5c7f6a6778b863c2",
+      "colorGroup": "color-basf-forward-am-ultrafuse-5c7f6a6778b863c2"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pc-gf30-grey",
@@ -419,10 +589,12 @@
       "colorName": "Grey",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#5E5E5E",
+      "displayComponents": [
+        "#5E5E5E"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-pc-gf30/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-pc-gf30/",
@@ -433,7 +605,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PC GF30 / Grey. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8700
+      "catalogOrder": 8700,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-f4c008f5a337a94b",
+      "colorGroup": "color-basf-forward-am-ultrafuse-f4c008f5a337a94b"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pc-abs-fr-black",
@@ -443,10 +623,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#323232",
+      "displayComponents": [
+        "#323232"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pc-abs-fr/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pc-abs-fr/",
@@ -457,7 +639,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PC/ABS FR / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8701
+      "catalogOrder": 8701,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-5a5d659e1d611343",
+      "colorGroup": "color-basf-forward-am-ultrafuse-5a5d659e1d611343"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pet-black",
@@ -467,10 +657,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#323232",
+      "displayComponents": [
+        "#323232"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
@@ -481,7 +673,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PET / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8702
+      "catalogOrder": 8702,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-489f645c1b20a102",
+      "colorGroup": "color-basf-forward-am-ultrafuse-489f645c1b20a102"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pet-blue",
@@ -491,10 +691,12 @@
       "colorName": "Blue",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#37539C",
+      "displayComponents": [
+        "#37539C"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
@@ -505,7 +707,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PET / Blue. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8703
+      "catalogOrder": 8703,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-493451c86f8170a9",
+      "colorGroup": "color-basf-forward-am-ultrafuse-493451c86f8170a9"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pet-green",
@@ -515,10 +725,12 @@
       "colorName": "Green",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#64B659",
+      "displayComponents": [
+        "#64B659"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
@@ -529,7 +741,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PET / Green. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8704
+      "catalogOrder": 8704,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-cc3093435cd693f5",
+      "colorGroup": "color-basf-forward-am-ultrafuse-cc3093435cd693f5"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pet-natural",
@@ -539,10 +759,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#72767E",
+      "displayComponents": [
+        "#72767E"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
@@ -553,7 +775,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PET / Natural. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8705
+      "catalogOrder": 8705,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-4106d6089472edc0",
+      "colorGroup": "color-basf-forward-am-ultrafuse-4106d6089472edc0"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pet-red",
@@ -563,10 +793,12 @@
       "colorName": "Red",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#D93B3A",
+      "displayComponents": [
+        "#D93B3A"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
@@ -577,7 +809,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PET / Red. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8706
+      "catalogOrder": 8706,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-7ce756d6d814ccc5",
+      "colorGroup": "color-basf-forward-am-ultrafuse-7ce756d6d814ccc5"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pet-white",
@@ -587,10 +827,12 @@
       "colorName": "White",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#D0CECA",
+      "displayComponents": [
+        "#D0CECA"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
@@ -601,7 +843,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PET / White. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8707
+      "catalogOrder": 8707,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-402b3281ffb197ad",
+      "colorGroup": "color-basf-forward-am-ultrafuse-402b3281ffb197ad"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pet-yellow",
@@ -611,10 +861,12 @@
       "colorName": "Yellow",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F4B145",
+      "displayComponents": [
+        "#F4B145"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pet/",
@@ -625,7 +877,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PET / Yellow. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8708
+      "catalogOrder": 8708,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-1733afe637762e48",
+      "colorGroup": "color-basf-forward-am-ultrafuse-1733afe637762e48"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pet-cf15-black",
@@ -635,10 +895,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#5A5A5A",
+      "displayComponents": [
+        "#5A5A5A"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-pet-cf15/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-pet-cf15/",
@@ -649,7 +911,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PET CF15 / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8709
+      "catalogOrder": 8709,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-a435fc0eef03812e",
+      "colorGroup": "color-basf-forward-am-ultrafuse-a435fc0eef03812e"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-black",
@@ -659,10 +929,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#323232",
+      "displayComponents": [
+        "#323232"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -673,7 +945,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8710
+      "catalogOrder": 8710,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-93be3c2553934431",
+      "colorGroup": "color-basf-forward-am-ultrafuse-93be3c2553934431"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-blue",
@@ -683,10 +963,12 @@
       "colorName": "Blue",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#37539A",
+      "displayComponents": [
+        "#37539A"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -697,7 +979,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Blue. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8711
+      "catalogOrder": 8711,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-e591bd2e28d7a23e",
+      "colorGroup": "color-basf-forward-am-ultrafuse-e591bd2e28d7a23e"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-bronze",
@@ -707,10 +997,12 @@
       "colorName": "Bronze",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#A6864F",
+      "displayComponents": [
+        "#A6864F"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -721,7 +1013,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Bronze. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8712
+      "catalogOrder": 8712,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-f6f429fe14345e4e",
+      "colorGroup": "color-basf-forward-am-ultrafuse-f6f429fe14345e4e"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-gold",
@@ -731,10 +1031,12 @@
       "colorName": "Gold",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#E5A13F",
+      "displayComponents": [
+        "#E5A13F"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -745,7 +1047,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Gold. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8713
+      "catalogOrder": 8713,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-b7530e87e4a3f552",
+      "colorGroup": "color-basf-forward-am-ultrafuse-b7530e87e4a3f552"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-green",
@@ -755,10 +1065,12 @@
       "colorName": "Green",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#63B65A",
+      "displayComponents": [
+        "#63B65A"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -769,7 +1081,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Green. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8714
+      "catalogOrder": 8714,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-9f9ab566169b72d7",
+      "colorGroup": "color-basf-forward-am-ultrafuse-9f9ab566169b72d7"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-grey",
@@ -779,10 +1099,12 @@
       "colorName": "Grey",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#C8C8C8",
+      "displayComponents": [
+        "#C8C8C8"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -793,7 +1115,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Grey. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8715
+      "catalogOrder": 8715,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-9a45854beffe4067",
+      "colorGroup": "color-basf-forward-am-ultrafuse-9a45854beffe4067"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-light-blue",
@@ -803,10 +1133,12 @@
       "colorName": "Light Blue",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#489BD8",
+      "displayComponents": [
+        "#489BD8"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -817,7 +1149,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Light Blue. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8716
+      "catalogOrder": 8716,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-1ef784dfed44ea18",
+      "colorGroup": "color-basf-forward-am-ultrafuse-1ef784dfed44ea18"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-natural",
@@ -827,10 +1167,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#E0DACA",
+      "displayComponents": [
+        "#E0DACA"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -841,7 +1183,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Natural. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8717
+      "catalogOrder": 8717,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-c4aca61dff480723",
+      "colorGroup": "color-basf-forward-am-ultrafuse-c4aca61dff480723"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-orange",
@@ -851,10 +1201,12 @@
       "colorName": "Orange",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F6844B",
+      "displayComponents": [
+        "#F6844B"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -865,7 +1217,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Orange. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8718
+      "catalogOrder": 8718,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-91caea6ee67f5742",
+      "colorGroup": "color-basf-forward-am-ultrafuse-91caea6ee67f5742"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-pearl-white",
@@ -875,10 +1235,12 @@
       "colorName": "Pearl White",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F6EEDD",
+      "displayComponents": [
+        "#F6EEDD"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -889,7 +1251,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Pearl White. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8719
+      "catalogOrder": 8719,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-ec32ec0adc670f7a",
+      "colorGroup": "color-basf-forward-am-ultrafuse-ec32ec0adc670f7a"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-pink",
@@ -899,10 +1269,12 @@
       "colorName": "Pink",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F4457D",
+      "displayComponents": [
+        "#F4457D"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -913,7 +1285,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Pink. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8720
+      "catalogOrder": 8720,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-558a1b6ecaa2b6fa",
+      "colorGroup": "color-basf-forward-am-ultrafuse-558a1b6ecaa2b6fa"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-red",
@@ -923,10 +1303,12 @@
       "colorName": "Red",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#DA3C3A",
+      "displayComponents": [
+        "#DA3C3A"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -937,7 +1319,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Red. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8721
+      "catalogOrder": 8721,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-db407e97f7f504e4",
+      "colorGroup": "color-basf-forward-am-ultrafuse-db407e97f7f504e4"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-silver",
@@ -947,10 +1337,12 @@
       "colorName": "Silver",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#BDBDBD",
+      "displayComponents": [
+        "#BDBDBD"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -961,7 +1353,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Silver. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8722
+      "catalogOrder": 8722,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-cb2d656698bdddc1",
+      "colorGroup": "color-basf-forward-am-ultrafuse-cb2d656698bdddc1"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-white",
@@ -971,10 +1371,12 @@
       "colorName": "White",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F5EEDF",
+      "displayComponents": [
+        "#F5EEDF"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -985,7 +1387,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / White. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8723
+      "catalogOrder": 8723,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-7b1bbb96d7f1b358",
+      "colorGroup": "color-basf-forward-am-ultrafuse-7b1bbb96d7f1b358"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-yellow",
@@ -995,10 +1405,12 @@
       "colorName": "Yellow",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F4B145",
+      "displayComponents": [
+        "#F4B145"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pla/",
@@ -1009,7 +1421,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA / Yellow. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8724
+      "catalogOrder": 8724,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-9f72424139412cea",
+      "colorGroup": "color-basf-forward-am-ultrafuse-9f72424139412cea"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-pro1-natural-white",
@@ -1019,10 +1439,12 @@
       "colorName": "Natural White",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#F3F4EF",
+      "displayComponents": [
+        "#F3F4EF"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pla-pro1/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pla-pro1/",
@@ -1033,7 +1455,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA PRO1 / Natural White. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8725
+      "catalogOrder": 8725,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-f5bdd409b8569e94",
+      "colorGroup": "color-basf-forward-am-ultrafuse-f5bdd409b8569e94"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-tough-black",
@@ -1043,10 +1473,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#333333",
+      "displayComponents": [
+        "#333333"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pla-tough/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pla-tough/",
@@ -1057,7 +1489,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA Tough / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8726
+      "catalogOrder": 8726,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-4d8058d7bcdd07f0",
+      "colorGroup": "color-basf-forward-am-ultrafuse-4d8058d7bcdd07f0"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pla-tough-natural",
@@ -1067,10 +1507,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#C4BEAE",
+      "displayComponents": [
+        "#C4BEAE"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pla-tough/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/engineering-filaments/ultrafuse-pla-tough/",
@@ -1081,7 +1523,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PLA Tough / Natural. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8727
+      "catalogOrder": 8727,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-77d958021d91cf4a",
+      "colorGroup": "color-basf-forward-am-ultrafuse-77d958021d91cf4a"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pp-black",
@@ -1091,10 +1541,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#323232",
+      "displayComponents": [
+        "#323232"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pp/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pp/",
@@ -1105,7 +1557,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PP / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8728
+      "catalogOrder": 8728,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-19f352d541bb08a3",
+      "colorGroup": "color-basf-forward-am-ultrafuse-19f352d541bb08a3"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pp-natural",
@@ -1115,10 +1575,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#D0D5DF",
+      "displayComponents": [
+        "#D0D5DF"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pp/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-pp/",
@@ -1129,7 +1591,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PP / Natural. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8729
+      "catalogOrder": 8729,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-eebf3ca182d0d096",
+      "colorGroup": "color-basf-forward-am-ultrafuse-eebf3ca182d0d096"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-pp-gf30-black",
@@ -1139,10 +1609,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#5B5B5B",
+      "displayComponents": [
+        "#5B5B5B"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-pp-gf30/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-pp-gf30/",
@@ -1153,7 +1625,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PP GF30 / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8730
+      "catalogOrder": 8730,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-46fc4c454bffd251",
+      "colorGroup": "color-basf-forward-am-ultrafuse-46fc4c454bffd251"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-ppsu-natural",
@@ -1163,10 +1643,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#C3A36E",
+      "displayComponents": [
+        "#C3A36E"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/high-temperature-filaments/ultrafuse-ppsu/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/high-temperature-filaments/ultrafuse-ppsu/",
@@ -1177,7 +1659,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse PPSU / Natural. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8731
+      "catalogOrder": 8731,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-eab328e787d224fd",
+      "colorGroup": "color-basf-forward-am-ultrafuse-eab328e787d224fd"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-support-layer-natural",
@@ -1187,10 +1677,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#9A9A9A",
+      "displayComponents": [
+        "#9A9A9A"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 300 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/metal-filaments/ultrafuse-support-layer/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/metal-filaments/ultrafuse-support-layer/",
@@ -1201,7 +1693,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse Support Layer / Natural. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 300 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8732
+      "catalogOrder": 8732,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-7c7f03a25f7f334b",
+      "colorGroup": "color-basf-forward-am-ultrafuse-7c7f03a25f7f334b"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-tpu-64d-white",
@@ -1211,10 +1711,12 @@
       "colorName": "White",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#EFE9D6",
+      "displayComponents": [
+        "#EFE9D6"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/flexible-filaments/ultrafuse-tpu-64d/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/flexible-filaments/ultrafuse-tpu-64d/",
@@ -1225,7 +1727,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse TPU 64D / White. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8733
+      "catalogOrder": 8733,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-cfe83629b56793e3",
+      "colorGroup": "color-basf-forward-am-ultrafuse-cfe83629b56793e3"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-tpu-85a-natural",
@@ -1235,10 +1745,12 @@
       "colorName": "Natural",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#E9E5DF",
+      "displayComponents": [
+        "#E9E5DF"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/flexible-filaments/ultrafuse-tpu-85a/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/flexible-filaments/ultrafuse-tpu-85a/",
@@ -1249,7 +1761,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse TPU 85A / Natural. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8734
+      "catalogOrder": 8734,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-74c6dada8f5cd384",
+      "colorGroup": "color-basf-forward-am-ultrafuse-74c6dada8f5cd384"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-tpu-95a-black",
@@ -1259,10 +1779,12 @@
       "colorName": "Black",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#474747",
+      "displayComponents": [
+        "#474747"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/flexible-filaments/ultrafuse-tpu-95a/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/flexible-filaments/ultrafuse-tpu-95a/",
@@ -1273,7 +1795,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse TPU 95A / Black. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8735
+      "catalogOrder": 8735,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-059d7816e2ce220b",
+      "colorGroup": "color-basf-forward-am-ultrafuse-059d7816e2ce220b"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-rpet-natural-blue",
@@ -1283,10 +1813,12 @@
       "colorName": "Natural Blue",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#505F80",
+      "displayComponents": [
+        "#505F80"
+      ],
       "variantLabel": "Manufacturer product image: 1.75 mm / 750 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-rpet/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/standard-filaments/ultrafuse-rpet/",
@@ -1297,7 +1829,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM Ultrafuse product page includes a color-named manufacturer product image for Ultrafuse rPET / Natural Blue. The image filename and spool artwork identify this line/color; the image package text is 1.75 mm / 750 g. No source SKU/color code is claimed. Screen RGB is an approximate sample of exposed filament in the exact official image; it is not manufacturer-published numeric HEX. Page presence is not an inventory claim.",
-      "catalogOrder": 8736
+      "catalogOrder": 8736,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-0683969093ddb877",
+      "colorGroup": "color-basf-forward-am-ultrafuse-0683969093ddb877"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-316l-unspecified-color",
@@ -1307,10 +1847,12 @@
       "colorName": null,
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#5D5D5D",
+      "displayComponents": [
+        "#5D5D5D"
+      ],
       "variantLabel": "Exact manufacturer product image; color unspecified: 1.75 mm / 1000 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/metal-filaments/ultrafuse-316l/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/metal-filaments/ultrafuse-316l/",
@@ -1321,7 +1863,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM evidence identifies an exact Ultrafuse 316L filament product with a product-specific image, but publishes no color label for this formula. This selectable reference intentionally has colorName null and is displayed as Unspecified color; no color is inferred. Sample RGB is an approximate screen reference from the image region (exposed wound-filament band on exact official product reel) and does not assign a named color. No source SKU/color code is claimed.",
-      "catalogOrder": 8737
+      "catalogOrder": 8737,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-9e1544862fc3f9dc",
+      "colorGroup": "color-basf-forward-am-ultrafuse-9e1544862fc3f9dc"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-17-4-ph-unspecified-color",
@@ -1331,10 +1881,12 @@
       "colorName": null,
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#5D5D5D",
+      "displayComponents": [
+        "#5D5D5D"
+      ],
       "variantLabel": "Exact manufacturer product image; color unspecified: 1.75 mm / 1000 g",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/metal-filaments/ultrafuse-17-4-ph/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/metal-filaments/ultrafuse-17-4-ph/",
@@ -1345,7 +1897,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM evidence identifies an exact Ultrafuse 17-4 PH filament product with a product-specific image, but publishes no color label for this formula. This selectable reference intentionally has colorName null and is displayed as Unspecified color; no color is inferred. Sample RGB is an approximate screen reference from the image region (exposed wound-filament band on exact official product reel) and does not assign a named color. No source SKU/color code is claimed.",
-      "catalogOrder": 8738
+      "catalogOrder": 8738,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-183f0fa61bba7c8e",
+      "colorGroup": "color-basf-forward-am-ultrafuse-183f0fa61bba7c8e"
     },
     {
       "id": "ref-forward-ultrafuse-ultrafuse-tps-90a-natural-white",
@@ -1355,10 +1915,12 @@
       "colorName": "Natural White",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#E2CFB7",
+      "displayComponents": [
+        "#E2CFB7"
+      ],
       "variantLabel": "Official product specimen image; color-label relation is source-caveated; no spool/package size shown",
-      "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "effects": [],
       "sourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/flexible-filaments/ultrafuse-tps-90a/",
       "lineSourceUrl": "https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/flexible-filaments/ultrafuse-tps-90a/",
@@ -1369,7 +1931,15 @@
       "selectable": true,
       "currentColorVerified": true,
       "note": "Current official Forward AM material catalog lists Ultrafuse TPS 90A in Natural White; this product-specific official TPS 90A specimen image is the available exact product image. The image depicts a printed specimen rather than a filament spool, so its color association and lighting are unverified; display sample is approximate and source-caveated. No numeric HEX or SKU/color code is claimed.",
-      "catalogOrder": 8739
+      "catalogOrder": 8739,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No manufacturer-published numeric HEX; approximate image sample is in supplemental manufacturer-image reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-basf-forward-am-ultrafuse-37a6a24b8d44176f",
+      "colorGroup": "color-basf-forward-am-ultrafuse-37a6a24b8d44176f"
     }
   ],
   "productLines": [
@@ -2562,5 +3132,1147 @@
     }
   ],
   "unresolved": [],
-  "browsingAliases": []
+  "browsingAliases": [],
+  "displayColors": [
+    {
+      "id": "color-basf-forward-am-ultrafuse-d07b5a64101b8a62",
+      "productLine": "Ultrafuse ABS",
+      "colorName": "Black",
+      "polymer": "ABS",
+      "effects": [],
+      "components": [
+        "#323232"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-abs-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-706eb48ad1b20c81",
+      "productLine": "Ultrafuse ABS",
+      "colorName": "Blue",
+      "polymer": "ABS",
+      "effects": [],
+      "components": [
+        "#3B80ED"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-abs-blue",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-ef175af0179bd9b7",
+      "productLine": "Ultrafuse ABS",
+      "colorName": "Green",
+      "polymer": "ABS",
+      "effects": [],
+      "components": [
+        "#63B658"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-abs-green",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-f17b91b327e62160",
+      "productLine": "Ultrafuse ABS",
+      "colorName": "Natural White",
+      "polymer": "ABS",
+      "effects": [],
+      "components": [
+        "#E9E9E6"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-abs-natural-white",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-4d6d9199fbc6a487",
+      "productLine": "Ultrafuse ABS",
+      "colorName": "Red",
+      "polymer": "ABS",
+      "effects": [],
+      "components": [
+        "#F64E4E"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-abs-red",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-32541d73f06095dd",
+      "productLine": "Ultrafuse ABS",
+      "colorName": "Silver",
+      "polymer": "ABS",
+      "effects": [],
+      "components": [
+        "#BDBDBD"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-abs-silver",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-4e8f85464c1f44b9",
+      "productLine": "Ultrafuse ABS",
+      "colorName": "Yellow",
+      "polymer": "ABS",
+      "effects": [],
+      "components": [
+        "#F4B045"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-abs-yellow",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-b0059b293545c014",
+      "productLine": "Ultrafuse ABS Fusion+",
+      "colorName": "Grey",
+      "polymer": "ABS blend",
+      "effects": [],
+      "components": [
+        "#A3A3A3"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-abs-fusion-grey",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-7269fca2b8fd377f",
+      "productLine": "Ultrafuse ABS Fusion+",
+      "colorName": "Natural",
+      "polymer": "ABS blend",
+      "effects": [],
+      "components": [
+        "#F6E7CB"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-abs-fusion-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-d648788432775d63",
+      "productLine": "Ultrafuse ASA",
+      "colorName": "Black",
+      "polymer": "ASA",
+      "effects": [],
+      "components": [
+        "#323232"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-asa-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-f612c5ee450e2a6b",
+      "productLine": "Ultrafuse ASA",
+      "colorName": "Natural",
+      "polymer": "ASA",
+      "effects": [],
+      "components": [
+        "#F7E4C1"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-asa-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-40057434ccb397f2",
+      "productLine": "Ultrafuse BVOH",
+      "colorName": "Natural",
+      "polymer": "BVOH",
+      "effects": [],
+      "components": [
+        "#D9CFAC"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-bvoh-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-5f44d0846982f965",
+      "productLine": "Ultrafuse HiPS",
+      "colorName": "Natural",
+      "polymer": "HIPS",
+      "effects": [],
+      "components": [
+        "#F2F3EE"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-hips-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-b7f953331e1ceb8b",
+      "productLine": "Ultrafuse PA",
+      "colorName": "Black",
+      "polymer": "polyamide",
+      "effects": [],
+      "components": [
+        "#323232"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pa-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-82f84a95b4b15a48",
+      "productLine": "Ultrafuse PA",
+      "colorName": "Natural",
+      "polymer": "polyamide",
+      "effects": [],
+      "components": [
+        "#E9E8E6"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pa-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-d88a09a906df38a8",
+      "productLine": "Ultrafuse PA6 GF30",
+      "colorName": "Black",
+      "polymer": "glass-fiber-reinforced PA6",
+      "effects": [],
+      "components": [
+        "#5B5B5B"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pa6-gf30-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-5c7f6a6778b863c2",
+      "productLine": "Ultrafuse PAHT CF15",
+      "colorName": "Black",
+      "polymer": "carbon-fiber-reinforced PA",
+      "effects": [],
+      "components": [
+        "#5B5B5B"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-paht-cf15-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-f4c008f5a337a94b",
+      "productLine": "Ultrafuse PC GF30",
+      "colorName": "Grey",
+      "polymer": "glass-fiber-reinforced PC",
+      "effects": [],
+      "components": [
+        "#5E5E5E"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pc-gf30-grey",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-5a5d659e1d611343",
+      "productLine": "Ultrafuse PC/ABS FR",
+      "colorName": "Black",
+      "polymer": "PC/ABS blend",
+      "effects": [],
+      "components": [
+        "#323232"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pc-abs-fr-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-489f645c1b20a102",
+      "productLine": "Ultrafuse PET",
+      "colorName": "Black",
+      "polymer": "PET",
+      "effects": [],
+      "components": [
+        "#323232"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pet-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-493451c86f8170a9",
+      "productLine": "Ultrafuse PET",
+      "colorName": "Blue",
+      "polymer": "PET",
+      "effects": [],
+      "components": [
+        "#37539C"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pet-blue",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-cc3093435cd693f5",
+      "productLine": "Ultrafuse PET",
+      "colorName": "Green",
+      "polymer": "PET",
+      "effects": [],
+      "components": [
+        "#64B659"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pet-green",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-4106d6089472edc0",
+      "productLine": "Ultrafuse PET",
+      "colorName": "Natural",
+      "polymer": "PET",
+      "effects": [],
+      "components": [
+        "#72767E"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pet-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-7ce756d6d814ccc5",
+      "productLine": "Ultrafuse PET",
+      "colorName": "Red",
+      "polymer": "PET",
+      "effects": [],
+      "components": [
+        "#D93B3A"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pet-red",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-402b3281ffb197ad",
+      "productLine": "Ultrafuse PET",
+      "colorName": "White",
+      "polymer": "PET",
+      "effects": [],
+      "components": [
+        "#D0CECA"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pet-white",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-1733afe637762e48",
+      "productLine": "Ultrafuse PET",
+      "colorName": "Yellow",
+      "polymer": "PET",
+      "effects": [],
+      "components": [
+        "#F4B145"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pet-yellow",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-a435fc0eef03812e",
+      "productLine": "Ultrafuse PET CF15",
+      "colorName": "Black",
+      "polymer": "carbon-fiber-reinforced PET",
+      "effects": [],
+      "components": [
+        "#5A5A5A"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pet-cf15-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-93be3c2553934431",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Black",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#323232"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-e591bd2e28d7a23e",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Blue",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#37539A"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-blue",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-f6f429fe14345e4e",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Bronze",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#A6864F"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-bronze",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-b7530e87e4a3f552",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Gold",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#E5A13F"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-gold",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-9f9ab566169b72d7",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Green",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#63B65A"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-green",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-9a45854beffe4067",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Grey",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#C8C8C8"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-grey",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-1ef784dfed44ea18",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Light Blue",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#489BD8"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-light-blue",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-c4aca61dff480723",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Natural",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#E0DACA"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-91caea6ee67f5742",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Orange",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#F6844B"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-orange",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-ec32ec0adc670f7a",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Pearl White",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#F6EEDD"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-pearl-white",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-558a1b6ecaa2b6fa",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Pink",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#F4457D"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-pink",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-db407e97f7f504e4",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Red",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#DA3C3A"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-red",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-cb2d656698bdddc1",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Silver",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#BDBDBD"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-silver",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-7b1bbb96d7f1b358",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "White",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#F5EEDF"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-white",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-9f72424139412cea",
+      "productLine": "Ultrafuse PLA",
+      "colorName": "Yellow",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#F4B145"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-yellow",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-f5bdd409b8569e94",
+      "productLine": "Ultrafuse PLA PRO1",
+      "colorName": "Natural White",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#F3F4EF"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-pro1-natural-white",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-4d8058d7bcdd07f0",
+      "productLine": "Ultrafuse PLA Tough",
+      "colorName": "Black",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#333333"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-tough-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-77d958021d91cf4a",
+      "productLine": "Ultrafuse PLA Tough",
+      "colorName": "Natural",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#C4BEAE"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pla-tough-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-19f352d541bb08a3",
+      "productLine": "Ultrafuse PP",
+      "colorName": "Black",
+      "polymer": "PP",
+      "effects": [],
+      "components": [
+        "#323232"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pp-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-eebf3ca182d0d096",
+      "productLine": "Ultrafuse PP",
+      "colorName": "Natural",
+      "polymer": "PP",
+      "effects": [],
+      "components": [
+        "#D0D5DF"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pp-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-46fc4c454bffd251",
+      "productLine": "Ultrafuse PP GF30",
+      "colorName": "Black",
+      "polymer": "glass-fiber-reinforced PP",
+      "effects": [],
+      "components": [
+        "#5B5B5B"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-pp-gf30-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-eab328e787d224fd",
+      "productLine": "Ultrafuse PPSU",
+      "colorName": "Natural",
+      "polymer": "PPSU",
+      "effects": [],
+      "components": [
+        "#C3A36E"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-ppsu-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-7c7f03a25f7f334b",
+      "productLine": "Ultrafuse Support Layer",
+      "colorName": "Natural",
+      "polymer": "support filament",
+      "effects": [],
+      "components": [
+        "#9A9A9A"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-support-layer-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-cfe83629b56793e3",
+      "productLine": "Ultrafuse TPU 64D",
+      "colorName": "White",
+      "polymer": "TPU",
+      "effects": [],
+      "components": [
+        "#EFE9D6"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-tpu-64d-white",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-74c6dada8f5cd384",
+      "productLine": "Ultrafuse TPU 85A",
+      "colorName": "Natural",
+      "polymer": "TPU",
+      "effects": [],
+      "components": [
+        "#E9E5DF"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-tpu-85a-natural",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-059d7816e2ce220b",
+      "productLine": "Ultrafuse TPU 95A",
+      "colorName": "Black",
+      "polymer": "TPU",
+      "effects": [],
+      "components": [
+        "#474747"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-tpu-95a-black",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-0683969093ddb877",
+      "productLine": "Ultrafuse rPET",
+      "colorName": "Natural Blue",
+      "polymer": "recycled PET",
+      "effects": [],
+      "components": [
+        "#505F80"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-rpet-natural-blue",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-9e1544862fc3f9dc",
+      "productLine": "Ultrafuse 316L",
+      "colorName": null,
+      "polymer": "316L stainless-steel-bound filament",
+      "effects": [],
+      "components": [
+        "#5D5D5D"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-316l-unspecified-color",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-183f0fa61bba7c8e",
+      "productLine": "Ultrafuse 17-4 PH",
+      "colorName": null,
+      "polymer": "17-4 PH stainless-steel-bound filament",
+      "effects": [],
+      "components": [
+        "#5D5D5D"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-17-4-ph-unspecified-color",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-basf-forward-am-ultrafuse-37a6a24b8d44176f",
+      "productLine": "Ultrafuse TPS 90A",
+      "colorName": "Natural White",
+      "polymer": "TPS",
+      "effects": [],
+      "components": [
+        "#E2CFB7"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-forward-ultrafuse-ultrafuse-tps-90a-natural-white",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    }
+  ]
 }

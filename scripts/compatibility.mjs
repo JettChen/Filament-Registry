@@ -1,4 +1,6 @@
 import { createHash } from "node:crypto";
+import { isSelectable } from "./series.mjs";
+export { isSelectable } from "./series.mjs";
 
 /** Calendar labels are accepted only as these two documented bootstrap baselines. */
 const bootstrapVersions = { "2026.10.27.1": "0.0.0", "2026.10.27.2": "0.0.0" };
@@ -27,9 +29,6 @@ export function compareVersions(left, right) {
   return 0;
 }
 
-export function isSelectable(row) {
-  return row.selectable && row.lifecycle !== "discontinued" && (!row.maintenance || row.maintenance.state === "active");
-}
 
 const fingerprint = manifest => createHash("sha256").update(JSON.stringify(manifest)).digest("hex");
 /** Published IDs survive retirement, filtering, corrections and even schema migrations. */
@@ -46,6 +45,7 @@ export function checkUpdate(previous, current) {
     if (!next) throw new Error(`Published ID removed: ${row.id}; retain a retired record instead`);
     for (const field of ["brand", "polymer", "codeKind"]) if (next[field] !== row[field]) throw new Error(`Published identity changed (${field}): ${row.id}; create a new ID instead`);
     if (row.sourceCode !== null && next.sourceCode !== row.sourceCode) throw new Error(`Published identity changed (sourceCode): ${row.id}`);
+    if (row.displayColorId && next.displayColorId !== row.displayColorId) throw new Error(`Published display color identity changed: ${row.id}`);
     if (next.catalogOrder !== row.catalogOrder) throw new Error(`Published catalogOrder changed: ${row.id}`);
     if (row.lifecycle !== "discontinued" && next.lifecycle === "discontinued" && !next.maintenance?.sourceUrl) throw new Error(`Manufacturer discontinuation needs dated maintenance evidence: ${row.id}`);
     if (isSelectable(row) !== isSelectable(next) || (row.maintenance?.state ?? "active") !== (next.maintenance?.state ?? "active")) membershipChanged = true;

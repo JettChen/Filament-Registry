@@ -9,7 +9,9 @@ const fixedFiles = [
   "licenses/upstream/BambuStudio-804d93b.json", "licenses/upstream/BambuStudio-79df7ae.json", "licenses/upstream/Snapmaker-Orca-b1831e5.json",
   ".github/CODEOWNERS", ".github/pull_request_template.md", ".github/workflows/validate.yml",
   "scripts/registry.mjs", "scripts/compatibility.mjs", "scripts/validate.mjs", "scripts/check-update.mjs",
-  "scripts/update-manifest.mjs", "scripts/publication.mjs",
+  "scripts/update-manifest.mjs", "scripts/publication.mjs", "scripts/colors.mjs", "scripts/build-display-colors.mjs", "scripts/export-consumer.mjs",
+  "SERIES-ALIASES.md", "scripts/series.mjs", "scripts/audit-series.mjs", "tests/series.test.mjs",
+  "COLOR-CONTRACT.md", "tests/palette-quality.test.mjs", "tests/colors.test.mjs", "tests/fixtures/public-0.1.2.json",
   "tests/registry.test.mjs", "tests/compatibility.test.mjs", "tests/publication.test.mjs", "registry.json",
 ];
 const originalNotices = new Set(["licenses/SpoolmanDB-MIT.txt", "licenses/AGPL-3.0.txt"]);

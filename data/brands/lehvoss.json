@@ -11,10 +11,12 @@
       "colorName": null,
       "sourceCode": "LUV010002",
       "codeKind": "sku",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#272325",
+      "displayComponents": [
+        "#272325"
+      ],
       "variantLabel": "Luvocom 3F PET CF 9780 BK",
-      "displaySource": "Approximate exact colorFabb retailer product-image display reference",
+      "displaySource": "Shared screen reference · community · not calibrated",
       "effects": [],
       "sourceUrl": "https://colorfabb.com/luvocom-3f-pet-cf-9780-bk",
       "codeSourceUrl": "https://colorfabb.com/luvocom-3f-pet-cf-9780-bk",
@@ -26,7 +28,15 @@
       "selectable": true,
       "currentColorVerified": false,
       "note": "Current official colorFabb catalog product ID 6729; source SKU LUV010002 retained as SKU, not mistaken for the numeric product ID. The official page does not publish a named color selector or HEX; display RGB is an approximate visual sample from its exact product-specific image. Studio lighting and surface texture are not colorimetry. The colorFabb catalog's manufacturer/brand filter identifies LEHVOSS; LUVOCOM is the product family shown in the exact product title. Retailer offer: colorFabb is the seller and source of this product/image. The Reference SKU is the seller catalog SKU, not an asserted upstream manufacturer SKU; no identity equivalence to another manufacturer entry is claimed.",
-      "catalogOrder": 9400
+      "catalogOrder": 9400,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "Approximate exact colorFabb retailer product-image display reference",
+        "colorGroup": null
+      },
+      "displayColorId": "color-lehvoss-f5ac988fc24e9800",
+      "colorGroup": "color-lehvoss-f5ac988fc24e9800"
     }
   ],
   "productLines": [
@@ -59,5 +69,27 @@
     }
   ],
   "unresolved": [],
-  "browsingAliases": []
+  "browsingAliases": [],
+  "displayColors": [
+    {
+      "id": "color-lehvoss-f5ac988fc24e9800",
+      "productLine": "Luvocom 3F PET CF 9780",
+      "colorName": null,
+      "polymer": "PET",
+      "effects": [],
+      "components": [
+        "#272325"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "colorfabb-6729",
+      "evidenceKind": "community",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    }
+  ]
 }
