@@ -17,6 +17,11 @@ export function classifyDisplayEvidence(row, reference) {
     rank: published && reference?.supersedesOriginal ? 0 : published ? 1 : reference?.kind === "community" ? 2 : !reference ? 3 : 4 };
 }
 
+/** Rejected observations stay in the archive; only their reviewed replacement is eligible. */
+export function activeDisplayReference(reference, review) {
+  return review?.status === "rejected" ? review.replacement ?? null : reference;
+}
+
 /** Browser-safe display contract. Screen RGB is never a measured material albedo. */
 export function resolveDisplayColor(row, reference, definition) {
   if (row.displayColorId && !definition) throw new Error(`Unknown display color: ${row.id}`);
@@ -34,6 +39,8 @@ export function resolveDisplayColor(row, reference, definition) {
     relationship: definition?.relationship ?? "legacy-unreviewed",
     selectionRule: definition?.selectionRule ?? "Legacy primary/components precedence; source observations remain separate.",
     conflictingObservations: definition?.conflictingObservations?.map(item => ({ ...item, components: [...item.components] })) ?? [],
+    eligibleObservations: definition?.eligibleObservations?.map(item => ({ ...item, components: [...item.components] })) ?? null,
+    evidenceReview: definition?.evidenceReview ?? null,
     calibrated: false,
     renderBaseColorHex: null,
     physicalEquivalence: "not-asserted",
@@ -45,6 +52,7 @@ export function consumerRecords(brands) {
   return brands.flatMap(brand => {
     const references = new Map(brand.displayReferences.map(reference => [reference.id, reference]));
     const records = new Map(brand.records.map(record => [record.id, record]));
+    const reviews = new Map((brand.displayReferenceReviews ?? []).map(review => [review.materialId, review]));
     const definitions = new Map((brand.displayColors ?? []).map(color => [color.id, color]));
     const aliases = new Map(brand.browsingAliases.map(alias => [alias.sourceSeries, alias.browsingSeries]));
     return brand.records.map(row => {
@@ -52,9 +60,12 @@ export function consumerRecords(brands) {
       const source = records.get(display.sourceMaterialId);
       return { ...row, browsingSeries: aliases.get(row.productLine) ?? row.productLine,
         displayHex: display.hex, displayComponents: display.components, display: { ...display,
+          recordReference: references.get(row.id) ?? null,
+          recordReferenceReview: reviews.get(row.id) ?? null,
           source: { materialId: source.id, recordSourceUrl: source.sourceUrl,
             observation: source.displayObservation ?? { displayHex: source.displayHex, displayComponents: source.displayComponents ?? [], displaySource: source.displaySource },
-            reference: references.get(source.id) ?? null,
+            reference: activeDisplayReference(references.get(source.id), reviews.get(source.id)) ?? null,
+            referenceReview: reviews.get(source.id) ?? null,
             reviewedEvidence: definitions.get(row.displayColorId)?.reviewedEvidence ?? null } } };
     });
   }).sort((left, right) => left.catalogOrder - right.catalogOrder);

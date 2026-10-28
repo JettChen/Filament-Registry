@@ -12133,9 +12133,9 @@
       "colorName": "WHITE",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": "#E3E4D4",
+      "displayHex": "#F6F6F6",
       "displayComponents": [
-        "#E3E4D4"
+        "#F6F6F6"
       ],
       "effects": [],
       "sourceUrl": "https://www.esun3d.com/petg-pro-product",
@@ -15499,9 +15499,9 @@
       "colorName": "WHITE",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": "#E3E4D4",
+      "displayHex": "#F6F6F6",
       "displayComponents": [
-        "#E3E4D4"
+        "#F6F6F6"
       ],
       "effects": [],
       "sourceUrl": "https://www.esun3d.com/petg-refilament-product",
@@ -17192,9 +17192,9 @@
       "colorName": "WHITE",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": "#E3E4D4",
+      "displayHex": "#F6F6F6",
       "displayComponents": [
-        "#E3E4D4"
+        "#F6F6F6"
       ],
       "effects": [],
       "sourceUrl": "https://www.esun3d.com/petg-product",
@@ -18408,9 +18408,9 @@
       "colorName": "WHITE",
       "sourceCode": null,
       "codeKind": "source-code",
-      "displayHex": "#E3E4D4",
+      "displayHex": "#F6F6F6",
       "displayComponents": [
-        "#E3E4D4"
+        "#F6F6F6"
       ],
       "effects": [],
       "sourceUrl": "https://www.esun3d.com/petg-2-5kg",
@@ -29120,16 +29120,32 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-26",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-esun-petg-matte-v-a50d34427299",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the current manufacturer White screen literal #F6F6F6 checked on 2026-10-28. Earlier values remain observations; saved design colors are not rewritten.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.esun3d.com/petg-matte-product",
+        "checkedOn": "2026-10-28",
+        "method": "Compared current official product page Available Colors text for both exact product listings; checked literal #E3E4D4 against fetched rendered source. Kept the separate spooled/refill product identities and historical component snapshot in evidence."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.esun3d.com/petg-matte-product",
+          "https://www.esun3d.com/petg-matte-refil-product"
+        ],
+        "finding": "The current official spooled PETG-Matte page and the separate spool-less refill page both publish WHITE #F6F6F6. Their current rendered source does not contain the older #E3E4D4 literal. The pages identify distinct packaging/product presentations, but both current published White numeric swatches match.",
+        "method": "Compared current official product page Available Colors text for both exact product listings; checked literal #E3E4D4 against fetched rendered source. Kept the separate spooled/refill product identities and historical component snapshot in evidence."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-esun-petg-matte-v-a50d34427299",
@@ -34699,18 +34715,34 @@
       "polymer": "PETG",
       "effects": [],
       "components": [
-        "#E3E4D4"
+        "#F6F6F6"
       ],
-      "checkedOn": "2026-10-26",
-      "selectionMode": "policy",
-      "sourceMaterialId": "ref-esun-v3-5e1364731df9492261958154",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
+      "sourceMaterialId": "ref-esun-v3-edd246effac6a588baa0a314",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the current manufacturer White screen literal #F6F6F6 checked on 2026-10-28. Earlier values remain observations; saved design colors are not rewritten.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.esun3d.com/petg-pro-product",
+        "checkedOn": "2026-10-28",
+        "method": "Compared current official Available Colors text on exact PETG+ / PETG Pro and PETG+ 2.5KG pages; checked literal #E3E4D4 against rendered source."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.esun3d.com/petg-pro-product",
+          "https://www.esun3d.com/petg-2-5kg"
+        ],
+        "finding": "The current official PETG+ / PETG Pro page and separate PETG+ 2.5KG listing both publish WHITE #F6F6F6. The #E3E4D4 value from the earlier PETG+ page observation is absent from the current fetched rendered source. The 2.5KG listing is a separately identified product/size presentation.",
+        "method": "Compared current official Available Colors text on exact PETG+ / PETG Pro and PETG+ 2.5KG pages; checked literal #E3E4D4 against rendered source."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-esun-v3-5e1364731df9492261958154",
@@ -36843,18 +36875,34 @@
       "polymer": "PETG",
       "effects": [],
       "components": [
-        "#E3E4D4"
+        "#F6F6F6"
       ],
-      "checkedOn": "2026-10-26",
-      "selectionMode": "policy",
-      "sourceMaterialId": "ref-esun-v3-117b592b7f988e08990132ca",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
+      "sourceMaterialId": "ref-esun-v3-930ddd713a48ca6b16cd5859",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the current manufacturer White screen literal #F6F6F6 checked on 2026-10-28. Earlier values remain observations; saved design colors are not rewritten.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.esun3d.com/petg-refilament-product",
+        "checkedOn": "2026-10-28",
+        "method": "Compared current official Available Colors text for exact PETG spool-less refill and standard PETG pages; searched fetched pages for the older #E3E4D4 literal."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.esun3d.com/petg-refilament-product",
+          "https://www.esun3d.com/petg-product"
+        ],
+        "finding": "The current official PETG spool-less refill page and spooled PETG page both publish WHITE #F6F6F6. The earlier #E3E4D4 refill observation is not present in the currently fetched rendered page. The exact product listings are distinct refill/spooled presentations.",
+        "method": "Compared current official Available Colors text for exact PETG spool-less refill and standard PETG pages; searched fetched pages for the older #E3E4D4 literal."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-esun-v3-117b592b7f988e08990132ca",

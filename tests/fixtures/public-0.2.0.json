@@ -1,0 +1,53 @@
+{
+  "sourceCommit": "6a377f9603d1baa1c0c9f521f6517be9f2ee1a8e",
+  "recordCount": 10357,
+  "identityFields": [
+    "id",
+    "brand",
+    "polymer",
+    "productLine",
+    "colorName",
+    "sourceCode",
+    "codeKind",
+    "catalogOrder",
+    "variantLabel",
+    "sourceRecord",
+    "sourceRgba",
+    "maintenance",
+    "selectable",
+    "lifecycle",
+    "sourceUrl",
+    "effects",
+    "currentColorVerified",
+    "checkedOn",
+    "displayColorId"
+  ],
+  "identitiesSha256": "6b7ee08a58715db171d7e70e658c3544e61ac0649c4aa4b83c67c15429d1c25f",
+  "observationsSha256": "ab23ac735af67fa331a4bd2f89b1dc6c8d145e53ec19268966b490cd255ca338",
+  "referencesSha256": "6c8baff28f4de4c588c62ce930691837aab2f5de46735569df66da0c5ae9c788",
+  "inventoryAndAliasesSha256": "1cc1b5bc2e7f3d17ae4dc9d12787377cbcf93cc8e2b1ddadf62784317064a2e7",
+  "displayIdentitySha256": "4da984da643f36054dbe609dbfcad629cb20ddc451e4cbe2d6b5fde3ae895cb5",
+  "unchangedDisplaySha256": "a0200ab3c094553fe61ce4819c537db06e5763f39a8df7d523cf4382e53b0b90",
+  "reviewedDisplayChanges": [
+    {
+      "id": "ref-esun-v3-5e1364731df9492261958154",
+      "from": "#E3E4D4",
+      "to": "#F6F6F6"
+    },
+    {
+      "id": "ref-esun-v3-117b592b7f988e08990132ca",
+      "from": "#E3E4D4",
+      "to": "#F6F6F6"
+    },
+    {
+      "id": "ref-esun-v3-930ddd713a48ca6b16cd5859",
+      "from": "#E3E4D4",
+      "to": "#F6F6F6"
+    },
+    {
+      "id": "ref-esun-v3-edd246effac6a588baa0a314",
+      "from": "#E3E4D4",
+      "to": "#F6F6F6"
+    }
+  ]
+}

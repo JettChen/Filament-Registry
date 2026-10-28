@@ -152,5 +152,20 @@ test("rebuilding the display projection and manifest is byte-idempotent", () => 
     assert.equal(reverted.evidenceKind, "manufacturer-swatch");
     assert.equal(reverted.reviewedEvidence, undefined);
     assert.notDeepEqual(reverted.components, white.components);
+    const sunluPath = join(isolated, "data/brands/sunlu.json");
+    const sunlu = JSON.parse(readFileSync(sunluPath));
+    const reviewedColor = sunlu.displayColors.find(color => color.eligibleObservations);
+    const history = reviewedColor.conflictingObservations;
+    reviewedColor.selectionMode = "policy";
+    delete reviewedColor.reviewedEvidence;
+    const newObservation = sunlu.records.find(row => row.displayColorId === reviewedColor.id && !sunlu.displayReferenceReviews.some(review => review.materialId === row.id));
+    newObservation.displayObservation.displayHex = "#123456";
+    newObservation.displayObservation.displayComponents = ["#123456"];
+    writeFileSync(sunluPath, JSON.stringify(sunlu, null, 2) + "\n");
+    execFileSync(process.execPath, ["scripts/build-display-colors.mjs"], { cwd: isolated });
+    const reviewedAgain = JSON.parse(readFileSync(sunluPath)).displayColors.find(color => color.id === reviewedColor.id);
+    assert.equal(reviewedAgain.checkedOn, "2026-10-28");
+    for (const item of history) assert.ok(reviewedAgain.conflictingObservations.some(next => JSON.stringify(next) === JSON.stringify(item)));
+    assert.ok(reviewedAgain.conflictingObservations.some(item => item.materialId === newObservation.id && item.components[0] === "#123456"));
   } finally { rmSync(isolated, { recursive: true, force: true }); }
 });

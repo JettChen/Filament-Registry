@@ -83,6 +83,20 @@ export function inspectBrands(brands) {
       references.set(row.id, row);
       allReferences.push(row);
     }
+    requireValue(brand.displayReferenceReviews === undefined || Array.isArray(brand.displayReferenceReviews), `${brand.brand}: invalid reference reviews`);
+    const reviewedReferences = new Set();
+    for (const review of brand.displayReferenceReviews ?? []) {
+      const original = references.get(review.materialId);
+      requireValue(localIds.has(review.materialId) && original && !reviewedReferences.has(review.materialId), `Unknown or duplicate reference review: ${review.materialId}`);
+      requireValue(review.status === "rejected" && dated(review.checkedOn) && hasText(review.reason) && https(review.sourceUrl), `Invalid reference review: ${review.materialId}`);
+      requireValue(review.referenceSha256 === sha256(Buffer.from(JSON.stringify(original))), `Stale reference review: ${review.materialId}`);
+      if (review.replacement) {
+        const replacement = review.replacement;
+        requireValue(replacement.id === review.materialId && replacement.kind === "manufacturer-swatch" && Array.isArray(replacement.components) && replacement.components.length > 0 && replacement.components.every(value => hex.test(value)), `Invalid replacement observation: ${review.materialId}`);
+        requireValue(https(replacement.sourceUrl) && dated(replacement.checkedOn) && hasText(replacement.providerId) && hasText(replacement.method) && /^[a-f0-9]{64}$/.test(replacement.imageSha256 ?? "") && hasText(replacement.sampleRegion), `Missing replacement provenance: ${review.materialId}`);
+      }
+      reviewedReferences.add(review.materialId);
+    }
     requireValue(brand.unresolved.length === 0, `${brand.brand}: unresolved display references`);
     for (const row of brand.browsingAliases) {
       const key = `${row.brand}\0${row.sourceSeries}`;
@@ -104,6 +118,22 @@ export function inspectBrands(brands) {
       requireValue(["policy", "reviewed"].includes(color.selectionMode), `Invalid display selection mode: ${color.id}`);
       if (color.selectionMode === "reviewed") requireValue(color.reviewedEvidence && https(color.reviewedEvidence.sourceUrl) && dated(color.reviewedEvidence.checkedOn) && hasText(color.reviewedEvidence.method), `Missing reviewed display evidence: ${color.id}`);
       requireValue(["reviewed-display-correction", "source-conflict-retained", "image-reference-only", "screen-reference-only"].includes(color.reviewStatus), `Invalid display review status: ${color.id}`);
+      if (color.evidenceReview) {
+        const review = color.evidenceReview;
+        requireValue(["resolved-display-difference", "source-error-corrected", "pending-upstream-verification", "pending-variant-scope"].includes(review.status) && dated(review.checkedOn) && hasText(review.finding) && hasText(review.method), `Invalid color evidence review: ${color.id}`);
+        requireValue(Array.isArray(review.sourceUrls) && review.sourceUrls.length > 0 && review.sourceUrls.every(https), `Missing color review sources: ${color.id}`);
+        if (review.status === "source-error-corrected") requireValue(brand.records.some(row => row.displayColorId === color.id && reviewedReferences.has(row.id)), `Missing rejected reference: ${color.id}`);
+      }
+      if (color.eligibleObservations !== undefined) {
+        const seen = new Set();
+        requireValue(Array.isArray(color.eligibleObservations) && color.eligibleObservations.length > 0, `Invalid eligible observations: ${color.id}`);
+        for (const item of color.eligibleObservations) {
+          requireValue(localIds.has(item.materialId) && !seen.has(item.materialId) && brand.records.find(row => row.id === item.materialId)?.displayColorId === color.id && Array.isArray(item.components) && item.components.length > 0 && item.components.every(value => hex.test(value)), `Invalid eligible observation: ${color.id}`);
+          const review = (brand.displayReferenceReviews ?? []).find(review => review.materialId === item.materialId);
+          requireValue(!review || (review.replacement && JSON.stringify(item.components) === JSON.stringify(review.replacement.components)), `Rejected observation is ineligible: ${color.id}`);
+          seen.add(item.materialId);
+        }
+      }
       requireValue(color.calibrated === false && color.renderBaseColorHex === null && color.physicalEquivalence === "not-asserted", `Unsubstantiated physical color claim: ${color.id}`);
       displayColors.set(color.id, { ...color, brand: brand.brand });
     }

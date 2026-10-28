@@ -9725,6 +9725,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #FF0000 is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 16.76; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-e670b8f7159afc639f282d23e0baac41",
@@ -9759,6 +9769,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #0000FF is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 127.93; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-baebf4f5d1b47e404d3f27399f5cd25e",
@@ -9793,6 +9813,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #FFFFFF is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 14.04; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-17806261f62aa9b8cb3559c6e18b794e",
@@ -9827,6 +9857,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #000000 is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 8.57; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-200989fc141e995834a0ec5ac9c14269",
@@ -9861,6 +9901,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #FCC200 is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 21.62; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-1a0cfb78cab2af3cc448d684e1547b4a",
@@ -9895,6 +9945,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #BF00FF is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 60.34; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-826aeab051c80bae22fe46b28181ae79",
@@ -10009,6 +10069,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #6E1F1F is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 16.3; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-d3249d60b2cf82d57fbbeb6f3e664e1e",
@@ -10043,6 +10113,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #AAA9A8 is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 6.14; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-da016448831645e7c8c426ebf5194aa2",
@@ -10077,6 +10157,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #FF8000 is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 8.54; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-bb99a71b63f8cb8cc09bd2c111285dc6",
@@ -10111,6 +10201,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #00FF00 is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 105.46; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-76ac92079350a3e3ee8265d6580644de",
@@ -10145,6 +10245,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg",
+          "https://store.creality.com/products/spool-free-hyper-pla-rfid-3d-printing-filament-1kg"
+        ],
+        "finding": "The selected value #FFFF00 is a community database value for the named Hyper PLA RFID color. Creality's official catalog lists the named color options and SKU family, but accessible primary pages provide product imagery rather than numeric color specifications. The official image ROI conflicts, including very large screen ΔE76 24.91; that is not enough to replace a numeric reference or assert a source error.",
+        "method": "Compared official Creality Hyper PLA RFID product catalog, selected color identity, and supplied official image observation with SpoolmanDB value; no numeric manufacturer color reference found. Image ROI is uncalibrated screen appearance only."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-creality-03b8c8d55bfd4d53ea536243f751114c",

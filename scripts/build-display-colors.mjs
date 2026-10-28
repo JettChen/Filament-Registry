@@ -2,7 +2,7 @@ import { createHash } from "node:crypto";
 import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { isSelectable } from "./compatibility.mjs";
-import { resolveDisplayColor, classifyDisplayEvidence } from "./colors.mjs";
+import { resolveDisplayColor, classifyDisplayEvidence, activeDisplayReference } from "./colors.mjs";
 
 const root = fileURLToPath(new URL("../", import.meta.url));
 const normalize = value => value.trim().toLowerCase();
@@ -17,12 +17,15 @@ const corrections = new Map([
   ...["PLA", "PLA+", "Rapid PLA+", "Rapid PETG"].map(line => [`${line}|Orange`, "#FD7C18"]),
 ]);
 
-function candidate(row, reference) {
+function candidate(row, originalReference, review) {
+  const reference = activeDisplayReference(originalReference, review);
+  if (review?.status === "rejected" && !reference) return null;
   const observed = row.displayObservation ?? row;
   const effective = resolveDisplayColor({ ...row, displayColorId: undefined, ...observed }, reference);
-  const evidence = classifyDisplayEvidence(row, reference);
-  const components = row.effects.includes("clear") && row.effects.includes("translucent") ? ["#F2F3F2"]
+  const evidence = review?.replacement ? { kind: reference.kind, rank: 4 } : classifyDisplayEvidence(row, reference);
+  const components = review?.replacement ? reference.components : row.effects.includes("clear") && row.effects.includes("translucent") ? ["#F2F3F2"]
     : effective.components.length ? effective.components : effective.hex ? [effective.hex] : [];
+  if (!components.length) return null;
   return { row, components: components.map(value => value.toUpperCase()),
     evidenceKind: evidence.kind, rank: evidence.rank,
     observation: reference?.imageSha256 ?? reference?.sourceUrl ?? row.sourceUrl };
@@ -33,6 +36,11 @@ for (const file of readdirSync(`${root}data/brands`).sort()) {
   const brand = JSON.parse(readFileSync(path));
   const aliases = new Map(brand.browsingAliases.map(alias => [alias.sourceSeries, alias.browsingSeries]));
   const references = new Map(brand.displayReferences.map(reference => [reference.id, reference]));
+  const referenceReviews = new Map((brand.displayReferenceReviews ?? []).map(review => {
+    const reference = references.get(review.materialId);
+    if (!reference || createHash("sha256").update(JSON.stringify(reference)).digest("hex") !== review.referenceSha256) throw new Error(`Stale reference review: ${review.materialId}`);
+    return [review.materialId, review];
+  }));
   const groups = new Map();
   for (const row of brand.records.filter(isSelectable)) {
     const series = aliases.get(row.productLine) ?? row.productLine;
@@ -47,7 +55,8 @@ for (const file of readdirSync(`${root}data/brands`).sort()) {
     const known = [...new Set(rows.map(row => row.displayColorId).filter(Boolean))];
     if (known.length > 1) throw new Error(`Display group merge needs explicit review: ${brand.brand} ${series}`);
     const id = known[0] ?? `color-${file.slice(0, -5)}-${createHash("sha256").update(key).digest("hex").slice(0, 16)}`;
-    const candidates = rows.map(row => candidate(row, references.get(row.id)));
+    const candidates = rows.map(row => candidate(row, references.get(row.id), referenceReviews.get(row.id))).filter(Boolean);
+    if (!candidates.length) throw new Error(`No eligible display observation: ${brand.brand} ${series}`);
     const votes = new Map();
     const seen = new Set();
     for (const item of candidates) {
@@ -66,9 +75,13 @@ for (const file of readdirSync(`${root}data/brands`).sort()) {
     const components = reviewed?.components ?? (correction ? [correction] : chosen.components);
     if (!components.length) throw new Error(`No display for ${id}`);
     const distinct = [...new Set(candidates.map(item => JSON.stringify(item.components)))];
+    const history = previous.get(id)?.conflictingObservations ?? [];
+    const observations = [...new Map([...history, ...candidates.map(item => ({ materialId: item.row.id, components: item.components }))]
+      .map(item => [JSON.stringify([item.materialId, item.components]), item])).values()];
     const pages = new Set(rows.map(row => row.sourceUrl.split("?")[0].split("#")[0]));
+    const observationRows = candidates.map(item => ({ materialId: item.row.id, components: item.components }));
     const definition = { id, productLine: series, colorName: rows[0].colorName, polymer: rows[0].polymer, effects: [...rows[0].effects], components,
-      checkedOn: reviewed?.checkedOn ?? (correction ? "2026-10-28" : [...rows.map(row => row.checkedOn), ...rows.map(row => references.get(row.id)?.checkedOn ?? row.checkedOn)].sort().at(-1)),
+      checkedOn: reviewed?.checkedOn ?? (correction ? "2026-10-28" : candidates.flatMap(item => [item.row.checkedOn, activeDisplayReference(references.get(item.row.id), referenceReviews.get(item.row.id))?.checkedOn ?? item.row.checkedOn]).sort().at(-1)),
       selectionMode: reviewed || correction ? "reviewed" : "policy",
       sourceMaterialId: reviewed?.sourceMaterialId ?? chosen.row.id, evidenceKind: reviewed?.evidenceKind ?? (correction ? "maintainer-display" : chosen.evidenceKind),
       relationship: pages.size === 1 ? "same-product-page-label" : "label-only",
@@ -80,7 +93,9 @@ for (const file of readdirSync(`${root}data/brands`).sort()) {
         kind: "maintainer-display", sourceUrl: chosen.row.sourceUrl, checkedOn: "2026-10-28",
         method: "Retained earlier screen reference after reviewing contradictory product photographs. The linked page identifies the product, not a published numeric HEX or calibrated measurement.",
       } } : {}),
-      ...(distinct.length > 1 ? { conflictingObservations: candidates.map(item => ({ materialId: item.row.id, components: item.components })) } : {}),
+      ...(previous.get(id)?.evidenceReview ? { evidenceReview: previous.get(id).evidenceReview } : {}),
+      ...(history.length || distinct.length > 1 ? { conflictingObservations: observations } : {}),
+      ...(rows.some(row => referenceReviews.has(row.id)) ? { eligibleObservations: observationRows } : {}),
     };
     if (previous.has(id) && previous.get(id).physicalEquivalence !== "not-asserted") throw new Error(`Unexpected physical identity claim: ${id}`);
     definitions.push(definition);
