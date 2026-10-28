@@ -10,6 +10,10 @@ Tell us three things:
 
 Preserve published IDs, known identity codes, brand/polymer identity, order, source observations and saved colors. Use the dated maintenance states in [README.md](README.md#structure-and-compatibility) instead of deleting IDs. Keep Bambu `sourceRecord` compatibility fields. Pending verification can retain its original screen value without a new color proposal.
 
+For series changes, use [the canonical naming and unique-index rules](SERIES-ALIASES.md#naming-and-the-unique-series-index). Add an explicit, source-linked browsing alias; never rewrite published record identity to normalize a label. Run `node scripts/audit-series.mjs` and resolve spelling collisions before submitting.
+
+For color changes follow [COLOR-CONTRACT.md](COLOR-CONTRACT.md). Keep `displayObservation` and original display references; update the shared decision and rebuild effective values with `node scripts/build-display-colors.mjs` before updating the manifest. Do not treat same-name packages as printing substitutes, mark photo medians as measured colors, or rewrite a saved user's `colorHex`. Existing shared display IDs survive label edits; a merge of different published display groups needs explicit review.
+
 The maintainer can help allocate order values, choose the version and refresh hashes. With Node.js 22 or newer:
 
 ```sh

@@ -21,14 +21,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-black",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-black",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 45, 47, 49; CMYK (ICC) 81 / 76 / 67 / 42; CIELAB D50/2° L* 20.2, a* −0.7, b* −1.5. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 45, 47, 49; CMYK (ICC) 81 / 76 / 67 / 42; CIELAB D50/2° L* 20.2, a* −0.7, b* −1.5. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-black|Black",
-      "catalogOrder": 2724
+      "colorGroup": "color-printed-solid-03bddca71b55819e",
+      "catalogOrder": 2724,
+      "displayObservation": {
+        "displayHex": "#2D2F31",
+        "displayComponents": [
+          "#2D2F31"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-black|Black"
+      },
+      "displayColorId": "color-printed-solid-03bddca71b55819e"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-w-175",
@@ -48,14 +57,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 246, 247, 240; CMYK (ICC) 3 / 2 / 4 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 246, 247, 240; CMYK (ICC) 3 / 2 / 4 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white|White",
-      "catalogOrder": 2725
+      "colorGroup": "color-printed-solid-4ef9da454ba898c8",
+      "catalogOrder": 2725,
+      "displayObservation": {
+        "displayHex": "#F6F7F0",
+        "displayComponents": [
+          "#F6F7F0"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white|White"
+      },
+      "displayColorId": "color-printed-solid-4ef9da454ba898c8"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-gm-175",
@@ -75,14 +93,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-gun-metal-grey",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-gun-metal-grey",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 118, 121, 124; CMYK (ICC) 56 / 46 / 41 / 3; CIELAB D50/2° L* 51.1, a* −0.9, b* −1.4. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 118, 121, 124; CMYK (ICC) 56 / 46 / 41 / 3; CIELAB D50/2° L* 51.1, a* −0.9, b* −1.4. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-gun-metal-grey|Gun Metal Grey",
-      "catalogOrder": 2726
+      "colorGroup": "color-printed-solid-c2eddf8c3ea81c4c",
+      "catalogOrder": 2726,
+      "displayObservation": {
+        "displayHex": "#76797C",
+        "displayComponents": [
+          "#76797C"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-gun-metal-grey|Gun Metal Grey"
+      },
+      "displayColorId": "color-printed-solid-c2eddf8c3ea81c4c"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-sb-175",
@@ -106,14 +133,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-soul-black-glitter"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 56, 57, 57; CMYK (ICC) 78 / 74 / 70 / 33; CIELAB D50/2° L* 23.8, a* −0.3, b* −0.1. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 56, 57, 57; CMYK (ICC) 78 / 74 / 70 / 33; CIELAB D50/2° L* 23.8, a* −0.3, b* −0.1. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-soul-black-glitter|Soul Black Glitter",
-      "catalogOrder": 2727
+      "colorGroup": "color-printed-solid-46e7174b03db07bb",
+      "catalogOrder": 2727,
+      "displayObservation": {
+        "displayHex": "#383939",
+        "displayComponents": [
+          "#383939"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-soul-black-glitter|Soul Black Glitter"
+      },
+      "displayColorId": "color-printed-solid-46e7174b03db07bb"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-y-175",
@@ -133,14 +169,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-yellow-bird",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-yellow-bird",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 247, 202, 57; CMYK (ICC) 2 / 16 / 85 / 2. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 247, 202, 57; CMYK (ICC) 2 / 16 / 85 / 2. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-yellow-bird|Yellow Bird",
-      "catalogOrder": 2728
+      "colorGroup": "color-printed-solid-3b3a0310b267f77a",
+      "catalogOrder": 2728,
+      "displayObservation": {
+        "displayHex": "#F7CA39",
+        "displayComponents": [
+          "#F7CA39"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-yellow-bird|Yellow Bird"
+      },
+      "displayColorId": "color-printed-solid-3b3a0310b267f77a"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-r-175",
@@ -160,14 +205,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-ps-red",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-ps-red",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 205, 55, 58; CMYK (ICC) 2 / 92 / 80 / 3. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 205, 55, 58; CMYK (ICC) 2 / 92 / 80 / 3. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-ps-red|PS Red",
-      "catalogOrder": 2729
+      "colorGroup": "color-printed-solid-ca58bfc10d419e40",
+      "catalogOrder": 2729,
+      "displayObservation": {
+        "displayHex": "#CD373A",
+        "displayComponents": [
+          "#CD373A"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-ps-red|PS Red"
+      },
+      "displayColorId": "color-printed-solid-ca58bfc10d419e40"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-qw-175",
@@ -187,14 +241,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-quarter-white",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-quarter-white",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 231, 234, 228; CMYK (ICC) 7 / 4 / 7 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 231, 234, 228; CMYK (ICC) 7 / 4 / 7 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-quarter-white|Quarter White",
-      "catalogOrder": 2730
+      "colorGroup": "color-printed-solid-e2a8449b5fe032fa",
+      "catalogOrder": 2730,
+      "displayObservation": {
+        "displayHex": "#E7EAE4",
+        "displayComponents": [
+          "#E7EAE4"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-quarter-white|Quarter White"
+      },
+      "displayColorId": "color-printed-solid-e2a8449b5fe032fa"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-ma-175",
@@ -218,14 +281,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-marble"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 163, 169, 173; CMYK (ICC) 34 / 25 / 21 / 0; CIELAB D50/2° L* 69.7, a* −1.8, b* −2.7. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 163, 169, 173; CMYK (ICC) 34 / 25 / 21 / 0; CIELAB D50/2° L* 69.7, a* −1.8, b* −2.7. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-marble|3DPN Vanilla Bean Ice Cream",
-      "catalogOrder": 2731
+      "colorGroup": "color-printed-solid-b915f2d048ce5a4e",
+      "catalogOrder": 2731,
+      "displayObservation": {
+        "displayHex": "#A3A9AD",
+        "displayComponents": [
+          "#A3A9AD"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-marble|3DPN Vanilla Bean Ice Cream"
+      },
+      "displayColorId": "color-printed-solid-b915f2d048ce5a4e"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-g-175",
@@ -245,14 +317,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-green",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-green",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 23, 130, 70; CMYK (ICC) 83 / 12 / 87 / 17. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 23, 130, 70; CMYK (ICC) 83 / 12 / 87 / 17. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-green|Tree Green",
-      "catalogOrder": 2732
+      "colorGroup": "color-printed-solid-de35791eaca03840",
+      "catalogOrder": 2732,
+      "displayObservation": {
+        "displayHex": "#178246",
+        "displayComponents": [
+          "#178246"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-green|Tree Green"
+      },
+      "displayColorId": "color-printed-solid-de35791eaca03840"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-b-175",
@@ -272,14 +353,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-bold-blue",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-bold-blue",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 41, 76, 166; CMYK (ICC) 91 / 73 / 0 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 41, 76, 166; CMYK (ICC) 91 / 73 / 0 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-bold-blue|Bold Blue",
-      "catalogOrder": 2733
+      "colorGroup": "color-printed-solid-9dcf39d2ac2d1171",
+      "catalogOrder": 2733,
+      "displayObservation": {
+        "displayHex": "#294CA6",
+        "displayComponents": [
+          "#294CA6"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-bold-blue|Bold Blue"
+      },
+      "displayColorId": "color-printed-solid-9dcf39d2ac2d1171"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-b500-175",
@@ -299,14 +389,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-beige-500",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-beige-500",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 204, 193, 166; CMYK (ICC) 17 / 19 / 31 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 204, 193, 166; CMYK (ICC) 17 / 19 / 31 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-beige-500|Beige 500",
-      "catalogOrder": 2734
+      "colorGroup": "color-printed-solid-dc1b1244269818f4",
+      "catalogOrder": 2734,
+      "displayObservation": {
+        "displayHex": "#CCC1A6",
+        "displayComponents": [
+          "#CCC1A6"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-beige-500|Beige 500"
+      },
+      "displayColorId": "color-printed-solid-dc1b1244269818f4"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-bi-175",
@@ -330,14 +429,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-ice"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 29, 55, 87; CMYK (ICC) 91 / 71 / 23 / 34; CIELAB D50/2° L* 21.2, a* −0.1, b* −19.2. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 29, 55, 87; CMYK (ICC) 91 / 71 / 23 / 34; CIELAB D50/2° L* 21.2, a* −0.1, b* −19.2. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-ice|Blue Ice",
-      "catalogOrder": 2735
+      "colorGroup": "color-printed-solid-4ac5152400820963",
+      "catalogOrder": 2735,
+      "displayObservation": {
+        "displayHex": "#1D3757",
+        "displayComponents": [
+          "#1D3757"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-ice|Blue Ice"
+      },
+      "displayColorId": "color-printed-solid-4ac5152400820963"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-o-175",
@@ -357,14 +465,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-mystery-orange",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-mystery-orange",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 244, 97, 42; CMYK (ICC) 0 / 68 / 86 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 244, 97, 42; CMYK (ICC) 0 / 68 / 86 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-mystery-orange|Mystery Orange",
-      "catalogOrder": 2736
+      "colorGroup": "color-printed-solid-4bb4e23b007ec9e8",
+      "catalogOrder": 2736,
+      "displayObservation": {
+        "displayHex": "#F4612A",
+        "displayComponents": [
+          "#F4612A"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-mystery-orange|Mystery Orange"
+      },
+      "displayColorId": "color-printed-solid-4bb4e23b007ec9e8"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-pc-175",
@@ -384,14 +501,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-pure-cyan",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-pure-cyan",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 0, 129, 175; CMYK (ICC) 91 / 25 / 5 / 8; CIELAB D50/2° L* 48.2, a* −24.6, b* −36.9. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 0, 129, 175; CMYK (ICC) 91 / 25 / 5 / 8; CIELAB D50/2° L* 48.2, a* −24.6, b* −36.9. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-pure-cyan|Pure Cyan",
-      "catalogOrder": 2737
+      "colorGroup": "color-printed-solid-f654ee9763431617",
+      "catalogOrder": 2737,
+      "displayObservation": {
+        "displayHex": "#0081AF",
+        "displayComponents": [
+          "#0081AF"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-pure-cyan|Pure Cyan"
+      },
+      "displayColorId": "color-printed-solid-f654ee9763431617"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-pe-175",
@@ -411,14 +537,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-purple-eater",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-purple-eater",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 128, 87, 162; CMYK (ICC) 55 / 71 / 0 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 128, 87, 162; CMYK (ICC) 55 / 71 / 0 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-purple-eater|Purple Eater",
-      "catalogOrder": 2738
+      "colorGroup": "color-printed-solid-09e9d0d414f87432",
+      "catalogOrder": 2738,
+      "displayObservation": {
+        "displayHex": "#8057A2",
+        "displayComponents": [
+          "#8057A2"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-purple-eater|Purple Eater"
+      },
+      "displayColorId": "color-printed-solid-09e9d0d414f87432"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-dw-175",
@@ -438,14 +573,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-design-white",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-design-white",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 204, 204, 198; CMYK (ICC) 18 / 13 / 15 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 204, 204, 198; CMYK (ICC) 18 / 13 / 15 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-design-white|Design White",
-      "catalogOrder": 2739
+      "colorGroup": "color-printed-solid-09f4a1d6e0fa491b",
+      "catalogOrder": 2739,
+      "displayObservation": {
+        "displayHex": "#CCCCC6",
+        "displayComponents": [
+          "#CCCCC6"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-design-white|Design White"
+      },
+      "displayColorId": "color-printed-solid-09f4a1d6e0fa491b"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-br-175",
@@ -469,14 +613,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blood-red"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 155, 63, 65; CMYK (ICC) 18 / 84 / 68 / 17. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 155, 63, 65; CMYK (ICC) 18 / 84 / 68 / 17. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blood-red|Blood Red Light Glitter",
-      "catalogOrder": 2740
+      "colorGroup": "color-printed-solid-4176d5de2ac1afd9",
+      "catalogOrder": 2740,
+      "displayObservation": {
+        "displayHex": "#9B3F41",
+        "displayComponents": [
+          "#9B3F41"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blood-red|Blood Red Light Glitter"
+      },
+      "displayColorId": "color-printed-solid-4176d5de2ac1afd9"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-tb-175",
@@ -496,14 +649,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-brown",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-brown",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 85, 61, 50; CMYK (ICC) 51 / 70 / 77 / 37. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 85, 61, 50; CMYK (ICC) 51 / 70 / 77 / 37. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-brown|Tree Brown",
-      "catalogOrder": 2741
+      "colorGroup": "color-printed-solid-a012ce67bfd61074",
+      "catalogOrder": 2741,
+      "displayObservation": {
+        "displayHex": "#553D32",
+        "displayComponents": [
+          "#553D32"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-brown|Tree Brown"
+      },
+      "displayColorId": "color-printed-solid-a012ce67bfd61074"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-rl-175",
@@ -527,14 +689,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-red-ice"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 134, 40, 41; CMYK (ICC) 15 / 91 / 80 / 30. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 134, 40, 41; CMYK (ICC) 15 / 91 / 80 / 30. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-red-ice|Red Ice",
-      "catalogOrder": 2742
+      "colorGroup": "color-printed-solid-02f9868c5a342851",
+      "catalogOrder": 2742,
+      "displayObservation": {
+        "displayHex": "#862829",
+        "displayComponents": [
+          "#862829"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-red-ice|Red Ice"
+      },
+      "displayColorId": "color-printed-solid-02f9868c5a342851"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-gw-175",
@@ -558,14 +729,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-golden-winner"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 137, 117, 46; CMYK (ICC) 22 / 31 / 91 / 29. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 137, 117, 46; CMYK (ICC) 22 / 31 / 91 / 29. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-golden-winner|Golden Winner Glitter",
-      "catalogOrder": 2743
+      "colorGroup": "color-printed-solid-a4b9f9ab653199e3",
+      "catalogOrder": 2743,
+      "displayObservation": {
+        "displayHex": "#89752E",
+        "displayComponents": [
+          "#89752E"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-golden-winner|Golden Winner Glitter"
+      },
+      "displayColorId": "color-printed-solid-a4b9f9ab653199e3"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-bm-175",
@@ -585,14 +765,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-moon",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-moon",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 40, 45, 93; CMYK (ICC) 91 / 83 / 13 / 28. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 40, 45, 93; CMYK (ICC) 91 / 83 / 13 / 28. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-moon|Blue Moon",
-      "catalogOrder": 2744
+      "colorGroup": "color-printed-solid-f9efa6fc5b65ca85",
+      "catalogOrder": 2744,
+      "displayObservation": {
+        "displayHex": "#282D5D",
+        "displayComponents": [
+          "#282D5D"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-moon|Blue Moon"
+      },
+      "displayColorId": "color-printed-solid-f9efa6fc5b65ca85"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-t64-175",
@@ -612,14 +801,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tan-64",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tan-64",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 158, 144, 127; CMYK (ICC) 35 / 38 / 45 / 2. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 158, 144, 127; CMYK (ICC) 35 / 38 / 45 / 2. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tan-64|Tan 64",
-      "catalogOrder": 2745
+      "colorGroup": "color-printed-solid-fa736b6a1a6d0439",
+      "catalogOrder": 2745,
+      "displayObservation": {
+        "displayHex": "#9E907F",
+        "displayComponents": [
+          "#9E907F"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tan-64|Tan 64"
+      },
+      "displayColorId": "color-printed-solid-fa736b6a1a6d0439"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-so-175",
@@ -639,14 +837,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-safety-orange",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-safety-orange",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 246, 118, 50; CMYK (ICC) 0 / 60 / 82 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 246, 118, 50; CMYK (ICC) 0 / 60 / 82 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-safety-orange|Safety Orange",
-      "catalogOrder": 2746
+      "colorGroup": "color-printed-solid-3e548ed8e857861b",
+      "catalogOrder": 2746,
+      "displayObservation": {
+        "displayHex": "#F67632",
+        "displayComponents": [
+          "#F67632"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-safety-orange|Safety Orange"
+      },
+      "displayColorId": "color-printed-solid-3e548ed8e857861b"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-pm-175",
@@ -666,14 +873,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-pure-magenta",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-pure-magenta",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 213, 155, 190; CMYK (ICC) 11 / 42 / 4 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 213, 155, 190; CMYK (ICC) 11 / 42 / 4 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-pure-magenta|Pure Magenta",
-      "catalogOrder": 2747
+      "colorGroup": "color-printed-solid-d33a45dfd6a33e93",
+      "catalogOrder": 2747,
+      "displayObservation": {
+        "displayHex": "#D59BBE",
+        "displayComponents": [
+          "#D59BBE"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-pure-magenta|Pure Magenta"
+      },
+      "displayColorId": "color-printed-solid-d33a45dfd6a33e93"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-gl-175",
@@ -697,14 +913,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-green-ice"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 40, 68, 46; CMYK (ICC) 76 / 39 / 78 / 51. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 40, 68, 46; CMYK (ICC) 76 / 39 / 78 / 51. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-green-ice|Green Ice",
-      "catalogOrder": 2748
+      "colorGroup": "color-printed-solid-e485cdd21b1e5fc8",
+      "catalogOrder": 2748,
+      "displayObservation": {
+        "displayHex": "#28442E",
+        "displayComponents": [
+          "#28442E"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-green-ice|Green Ice"
+      },
+      "displayColorId": "color-printed-solid-e485cdd21b1e5fc8"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-016627550453",
@@ -724,14 +949,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-whale-grey",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-whale-grey",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 78, 100, 129; CMYK (ICC) 75 / 54 / 24 / 8; CIELAB D50/2° L* 42.0, a* −2.8, b* −18.7. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 78, 100, 129; CMYK (ICC) 75 / 54 / 24 / 8; CIELAB D50/2° L* 42.0, a* −2.8, b* −18.7. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-whale-grey|Blue Whale Grey",
-      "catalogOrder": 2749
+      "colorGroup": "color-printed-solid-f5bf03c150264b94",
+      "catalogOrder": 2749,
+      "displayObservation": {
+        "displayHex": "#4E6481",
+        "displayComponents": [
+          "#4E6481"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-whale-grey|Blue Whale Grey"
+      },
+      "displayColorId": "color-printed-solid-f5bf03c150264b94"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-016627550378",
@@ -751,14 +985,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-limer-green",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-limer-green",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 45, 178, 62; CMYK (ICC) 71 / 0 / 94 / 1. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 45, 178, 62; CMYK (ICC) 71 / 0 / 94 / 1. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-limer-green|Limer Green",
-      "catalogOrder": 2750
+      "colorGroup": "color-printed-solid-12ab180d071d7672",
+      "catalogOrder": 2750,
+      "displayObservation": {
+        "displayHex": "#2DB23E",
+        "displayComponents": [
+          "#2DB23E"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-limer-green|Limer Green"
+      },
+      "displayColorId": "color-printed-solid-12ab180d071d7672"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-ag-175",
@@ -778,14 +1021,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-army-green",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-army-green",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 78, 84, 57; CMYK (ICC) 61 / 48 / 82 / 32. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 78, 84, 57; CMYK (ICC) 61 / 48 / 82 / 32. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-army-green|Army Green",
-      "catalogOrder": 2751
+      "colorGroup": "color-printed-solid-bee3c443d317a3f0",
+      "catalogOrder": 2751,
+      "displayObservation": {
+        "displayHex": "#4E5439",
+        "displayComponents": [
+          "#4E5439"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-army-green|Army Green"
+      },
+      "displayColorId": "color-printed-solid-bee3c443d317a3f0"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-pl-175",
@@ -809,14 +1061,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-purple-ice"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 105, 55, 109; CMYK (ICC) 57 / 88 / 14 / 13. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 105, 55, 109; CMYK (ICC) 57 / 88 / 14 / 13. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-purple-ice|Purple Ice",
-      "catalogOrder": 2752
+      "colorGroup": "color-printed-solid-b14559b1f5158228",
+      "catalogOrder": 2752,
+      "displayObservation": {
+        "displayHex": "#69376D",
+        "displayComponents": [
+          "#69376D"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-purple-ice|Purple Ice"
+      },
+      "displayColorId": "color-printed-solid-b14559b1f5158228"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-016627550590",
@@ -840,14 +1101,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-brads-orange"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 216, 93, 54; CMYK (ICC) 1 / 73 / 89 / 3. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 216, 93, 54; CMYK (ICC) 1 / 73 / 89 / 3. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-brads-orange|Brad's Orange Glitter",
-      "catalogOrder": 2753
+      "colorGroup": "color-printed-solid-cbf4e0e5b6416b2d",
+      "catalogOrder": 2753,
+      "displayObservation": {
+        "displayHex": "#D85D36",
+        "displayComponents": [
+          "#D85D36"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-brads-orange|Brad's Orange Glitter"
+      },
+      "displayColorId": "color-printed-solid-cbf4e0e5b6416b2d"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-016627550361",
@@ -867,14 +1137,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-pink",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-pink",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 255, 94, 136; CMYK (ICC) 0 / 65 / 23 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 255, 94, 136; CMYK (ICC) 0 / 65 / 23 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-pink|Neon Pink",
-      "catalogOrder": 2754
+      "colorGroup": "color-printed-solid-8a1bb326cc75893c",
+      "catalogOrder": 2754,
+      "displayObservation": {
+        "displayHex": "#FF5E88",
+        "displayComponents": [
+          "#FF5E88"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-pink|Neon Pink"
+      },
+      "displayColorId": "color-printed-solid-8a1bb326cc75893c"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-p-175",
@@ -894,14 +1173,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-deep-purple",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-deep-purple",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 96, 77, 95; CMYK (ICC) 65 / 71 / 43 / 14. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 96, 77, 95; CMYK (ICC) 65 / 71 / 43 / 14. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-deep-purple|Deep Purple",
-      "catalogOrder": 2755
+      "colorGroup": "color-printed-solid-7ae417b31df953ab",
+      "catalogOrder": 2755,
+      "displayObservation": {
+        "displayHex": "#604D5F",
+        "displayComponents": [
+          "#604D5F"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-deep-purple|Deep Purple"
+      },
+      "displayColorId": "color-printed-solid-7ae417b31df953ab"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-n-175",
@@ -921,14 +1209,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-natural",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-natural",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 130, 129, 124; CMYK (ICC) 49 / 43 / 44 / 3. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 130, 129, 124; CMYK (ICC) 49 / 43 / 44 / 3. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-natural|Natural",
-      "catalogOrder": 2756
+      "colorGroup": "color-printed-solid-2bc10d313e27c346",
+      "catalogOrder": 2756,
+      "displayObservation": {
+        "displayHex": "#82817C",
+        "displayComponents": [
+          "#82817C"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-natural|Natural"
+      },
+      "displayColorId": "color-printed-solid-2bc10d313e27c346"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-ng-175",
@@ -948,14 +1245,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-green",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-green",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 154, 229, 14; CMYK (ICC) 34 / 0 / 77 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 154, 229, 14; CMYK (ICC) 34 / 0 / 77 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-green|Neon Green",
-      "catalogOrder": 2757
+      "colorGroup": "color-printed-solid-6e0e4e58c3b2b66a",
+      "catalogOrder": 2757,
+      "displayObservation": {
+        "displayHex": "#9AE50E",
+        "displayComponents": [
+          "#9AE50E"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-green|Neon Green"
+      },
+      "displayColorId": "color-printed-solid-6e0e4e58c3b2b66a"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-gs-175",
@@ -979,14 +1285,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-green-slime-glitter"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 137, 157, 56; CMYK (ICC) 37 / 9 / 93 / 17. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 137, 157, 56; CMYK (ICC) 37 / 9 / 93 / 17. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-green-slime-glitter|Green Slime Glitter",
-      "catalogOrder": 2758
+      "colorGroup": "color-printed-solid-307bf45a859db2e2",
+      "catalogOrder": 2758,
+      "displayObservation": {
+        "displayHex": "#899D38",
+        "displayComponents": [
+          "#899D38"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-green-slime-glitter|Green Slime Glitter"
+      },
+      "displayColorId": "color-printed-solid-307bf45a859db2e2"
     },
     {
       "id": "ref-printed-solid-jessie-premium-pla-ps-jpla-ny-175",
@@ -1006,14 +1321,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-yellow",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-yellow",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 198, 243, 35; CMYK (ICC) 22 / 0 / 71 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 198, 243, 35; CMYK (ICC) 22 / 0 / 71 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-yellow|Neon Yellow",
-      "catalogOrder": 2759
+      "colorGroup": "color-printed-solid-e0031874e77a1a3c",
+      "catalogOrder": 2759,
+      "displayObservation": {
+        "displayHex": "#C6F323",
+        "displayComponents": [
+          "#C6F323"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PLA|https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-neon-yellow|Neon Yellow"
+      },
+      "displayColorId": "color-printed-solid-e0031874e77a1a3c"
     },
     {
       "id": "ref-printed-solid-jessie-premium-elixir-016627550019",
@@ -1037,14 +1361,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-nightshade-1kg"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 74, 60, 122; CMYK (ICC) 82 / 84 / 7 / 7. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 74, 60, 122; CMYK (ICC) 82 / 84 / 7 / 7. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-nightshade-1kg|Nightshade",
-      "catalogOrder": 2760
+      "colorGroup": "color-printed-solid-0e2734fa3af63dc7",
+      "catalogOrder": 2760,
+      "displayObservation": {
+        "displayHex": "#4A3C7A",
+        "displayComponents": [
+          "#4A3C7A"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-nightshade-1kg|Nightshade"
+      },
+      "displayColorId": "color-printed-solid-0e2734fa3af63dc7"
     },
     {
       "id": "ref-printed-solid-jessie-premium-elixir-016627550026",
@@ -1068,14 +1401,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-royal-ruby-1kg"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 195, 105, 91; CMYK (ICC) 11 / 68 / 60 / 3. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 195, 105, 91; CMYK (ICC) 11 / 68 / 60 / 3. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-royal-ruby-1kg|Royal Ruby",
-      "catalogOrder": 2761
+      "colorGroup": "color-printed-solid-2515282947c02322",
+      "catalogOrder": 2761,
+      "displayObservation": {
+        "displayHex": "#C3695B",
+        "displayComponents": [
+          "#C3695B"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-royal-ruby-1kg|Royal Ruby"
+      },
+      "displayColorId": "color-printed-solid-2515282947c02322"
     },
     {
       "id": "ref-printed-solid-jessie-premium-elixir-016627550040",
@@ -1099,14 +1441,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-aquamarine-1kg"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 97, 167, 191; CMYK (ICC) 60 / 15 / 10 / 1; CIELAB D50/2° L* 64.7, a* −17.8, b* −18.2. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 97, 167, 191; CMYK (ICC) 60 / 15 / 10 / 1; CIELAB D50/2° L* 64.7, a* −17.8, b* −18.2. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-aquamarine-1kg|Aquamarine",
-      "catalogOrder": 2762
+      "colorGroup": "color-printed-solid-89c747d6fb640dc1",
+      "catalogOrder": 2762,
+      "displayObservation": {
+        "displayHex": "#61A7BF",
+        "displayComponents": [
+          "#61A7BF"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-aquamarine-1kg|Aquamarine"
+      },
+      "displayColorId": "color-printed-solid-89c747d6fb640dc1"
     },
     {
       "id": "ref-printed-solid-jessie-premium-elixir-016627550057",
@@ -1130,14 +1481,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-misty-green-1kg"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 21, 141, 117; CMYK (ICC) 83 / 13 / 55 / 9. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 21, 141, 117; CMYK (ICC) 83 / 13 / 55 / 9. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-misty-green-1kg|Misty Green",
-      "catalogOrder": 2763
+      "colorGroup": "color-printed-solid-789cc60f6373456a",
+      "catalogOrder": 2763,
+      "displayObservation": {
+        "displayHex": "#158D75",
+        "displayComponents": [
+          "#158D75"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-misty-green-1kg|Misty Green"
+      },
+      "displayColorId": "color-printed-solid-789cc60f6373456a"
     },
     {
       "id": "ref-printed-solid-jessie-premium-elixir-016627550033",
@@ -1161,14 +1521,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-abyss-1kg"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 100, 107, 108; CMYK (ICC) 64 / 52 / 48 / 6; CIELAB D50/2° L* 44.7, a* −2.1, b* −0.6. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 100, 107, 108; CMYK (ICC) 64 / 52 / 48 / 6; CIELAB D50/2° L* 44.7, a* −2.1, b* −0.6. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-abyss-1kg|Abyss",
-      "catalogOrder": 2764
+      "colorGroup": "color-printed-solid-b3fa73120cbb5a0b",
+      "catalogOrder": 2764,
+      "displayObservation": {
+        "displayHex": "#646B6C",
+        "displayComponents": [
+          "#646B6C"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-abyss-1kg|Abyss"
+      },
+      "displayColorId": "color-printed-solid-b3fa73120cbb5a0b"
     },
     {
       "id": "ref-printed-solid-jessie-premium-elixir-016627550064",
@@ -1192,14 +1561,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-gold-rush-1kg"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 211, 156, 79; CMYK (ICC) 8 / 35 / 78 / 4. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 211, 156, 79; CMYK (ICC) 8 / 35 / 78 / 4. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-gold-rush-1kg|Gold Rush",
-      "catalogOrder": 2765
+      "colorGroup": "color-printed-solid-7ff048682c34152c",
+      "catalogOrder": 2765,
+      "displayObservation": {
+        "displayHex": "#D39C4F",
+        "displayComponents": [
+          "#D39C4F"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-gold-rush-1kg|Gold Rush"
+      },
+      "displayColorId": "color-printed-solid-7ff048682c34152c"
     },
     {
       "id": "ref-printed-solid-jessie-premium-elixir-016627550088",
@@ -1223,14 +1601,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-natural-1kg"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 201, 213, 212; CMYK (ICC) 18 / 9 / 10 / 0; CIELAB D50/2° L* 84.9, a* −3.8, b* −0.6. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 201, 213, 212; CMYK (ICC) 18 / 9 / 10 / 0; CIELAB D50/2° L* 84.9, a* −3.8, b* −0.6. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-natural-1kg|Natural",
-      "catalogOrder": 2766
+      "colorGroup": "color-printed-solid-9031c0dab166c4db",
+      "catalogOrder": 2766,
+      "displayObservation": {
+        "displayHex": "#C9D5D4",
+        "displayComponents": [
+          "#C9D5D4"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-natural-1kg|Natural"
+      },
+      "displayColorId": "color-printed-solid-9031c0dab166c4db"
     },
     {
       "id": "ref-printed-solid-jessie-premium-elixir-016627550071",
@@ -1254,14 +1641,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-bronze-1kg"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 135, 130, 96; CMYK (ICC) 44 / 38 / 65 / 8. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 135, 130, 96; CMYK (ICC) 44 / 38 / 65 / 8. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-bronze-1kg|Bronze",
-      "catalogOrder": 2767
+      "colorGroup": "color-printed-solid-242fb09a77b56980",
+      "catalogOrder": 2767,
+      "displayObservation": {
+        "displayHex": "#878260",
+        "displayComponents": [
+          "#878260"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-bronze-1kg|Bronze"
+      },
+      "displayColorId": "color-printed-solid-242fb09a77b56980"
     },
     {
       "id": "ref-printed-solid-jessie-premium-elixir-016627550095",
@@ -1285,14 +1681,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-electric-lemonade-1kg"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 182, 181, 108; CMYK (ICC) 25 / 16 / 65 / 3. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 182, 181, 108; CMYK (ICC) 25 / 16 / 65 / 3. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-electric-lemonade-1kg|Electric Lemonade",
-      "catalogOrder": 2768
+      "colorGroup": "color-printed-solid-e3ffe55f1794a8ea",
+      "catalogOrder": 2768,
+      "displayObservation": {
+        "displayHex": "#B6B56C",
+        "displayComponents": [
+          "#B6B56C"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium Elixir|https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-electric-lemonade-1kg|Electric Lemonade"
+      },
+      "displayColorId": "color-printed-solid-e3ffe55f1794a8ea"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551030",
@@ -1312,14 +1717,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-black",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-black",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 51, 53, 55; CMYK (ICC) 80 / 73 / 69 / 37; CIELAB D50/2° L* 22.3, a* −0.6, b* −1.5. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 51, 53, 55; CMYK (ICC) 80 / 73 / 69 / 37; CIELAB D50/2° L* 22.3, a* −0.6, b* −1.5. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-black|Black",
-      "catalogOrder": 2769
+      "colorGroup": "color-printed-solid-25570bc037c80364",
+      "catalogOrder": 2769,
+      "displayObservation": {
+        "displayHex": "#333537",
+        "displayComponents": [
+          "#333537"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-black|Black"
+      },
+      "displayColorId": "color-printed-solid-25570bc037c80364"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551047",
@@ -1343,14 +1757,23 @@
       "effectSourceUrls": [
         "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-soul-black-glitter"
       ],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 46, 46, 43; CMYK (ICC) 75 / 73 / 74 / 47. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 46, 46, 43; CMYK (ICC) 75 / 73 / 74 / 47. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-soul-black-glitter|Soul Black Glitter",
-      "catalogOrder": 2770
+      "colorGroup": "color-printed-solid-150645c5ffa638ae",
+      "catalogOrder": 2770,
+      "displayObservation": {
+        "displayHex": "#2E2E2B",
+        "displayComponents": [
+          "#2E2E2B"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-soul-black-glitter|Soul Black Glitter"
+      },
+      "displayColorId": "color-printed-solid-150645c5ffa638ae"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551078",
@@ -1360,22 +1783,31 @@
       "colorName": "Gun Metal Grey",
       "sourceCode": "016627551078",
       "codeKind": "sku",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#3B3E4A",
+      "displayComponents": [
+        "#3B3E4A"
+      ],
       "effects": [],
       "sourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-gun-metal-grey",
       "codeSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-gun-metal-grey",
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-gun-metal-grey",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-gun-metal-grey",
       "effectSourceUrls": [],
-      "displaySource": "No published HEX in the inspected manufacturer source",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 112, 114, 118; CMYK (ICC) 58 / 49 / 43 / 4; CIELAB D50/2° L* 48.10, a* −0.41, b* −2.45. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 112, 114, 118; CMYK (ICC) 58 / 49 / 43 / 4; CIELAB D50/2° L* 48.10, a* −0.41, b* −2.45. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-gun-metal-grey|Gun Metal Grey",
-      "catalogOrder": 2771
+      "colorGroup": "color-printed-solid-06acb1e1522f2eb1",
+      "catalogOrder": 2771,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No published HEX in the inspected manufacturer source",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-gun-metal-grey|Gun Metal Grey"
+      },
+      "displayColorId": "color-printed-solid-06acb1e1522f2eb1"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551092",
@@ -1395,14 +1827,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-white",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-white",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 241, 242, 239; CMYK (ICC) 4 / 3 / 3 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 241, 242, 239; CMYK (ICC) 4 / 3 / 3 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-white|White",
-      "catalogOrder": 2772
+      "colorGroup": "color-printed-solid-bc241c5b72083d8d",
+      "catalogOrder": 2772,
+      "displayObservation": {
+        "displayHex": "#F1F2EF",
+        "displayComponents": [
+          "#F1F2EF"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-white|White"
+      },
+      "displayColorId": "color-printed-solid-bc241c5b72083d8d"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551023",
@@ -1412,22 +1853,31 @@
       "colorName": "Mystery Orange",
       "sourceCode": "016627551023",
       "codeKind": "sku",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#FE8B32",
+      "displayComponents": [
+        "#FE8B32"
+      ],
       "effects": [],
       "sourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-mystery-orange",
       "codeSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-mystery-orange",
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-mystery-orange",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-mystery-orange",
       "effectSourceUrls": [],
-      "displaySource": "No published HEX in the inspected manufacturer source",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 236, 84, 40; CMYK (ICC) 0 / 74 / 88 / 1. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 236, 84, 40; CMYK (ICC) 0 / 74 / 88 / 1. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-mystery-orange|Mystery Orange",
-      "catalogOrder": 2773
+      "colorGroup": "color-printed-solid-468194879a6c2c95",
+      "catalogOrder": 2773,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No published HEX in the inspected manufacturer source",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-mystery-orange|Mystery Orange"
+      },
+      "displayColorId": "color-printed-solid-468194879a6c2c95"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551108",
@@ -1437,22 +1887,31 @@
       "colorName": "PS Red",
       "sourceCode": "016627551108",
       "codeKind": "sku",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#E62922",
+      "displayComponents": [
+        "#E62922"
+      ],
       "effects": [],
       "sourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-ps-red",
       "codeSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-ps-red",
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-ps-red",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-ps-red",
       "effectSourceUrls": [],
-      "displaySource": "No published HEX in the inspected manufacturer source",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 193, 64, 61; CMYK (ICC) 6 / 87 / 78 / 7. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 193, 64, 61; CMYK (ICC) 6 / 87 / 78 / 7. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-ps-red|PS Red",
-      "catalogOrder": 2774
+      "colorGroup": "color-printed-solid-35e230b97c14c47a",
+      "catalogOrder": 2774,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No published HEX in the inspected manufacturer source",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-ps-red|PS Red"
+      },
+      "displayColorId": "color-printed-solid-35e230b97c14c47a"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551054",
@@ -1472,14 +1931,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-bold-blue",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-bold-blue",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 37, 82, 167; CMYK (ICC) 90 / 69 / 0 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 37, 82, 167; CMYK (ICC) 90 / 69 / 0 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-bold-blue|Bold Blue",
-      "catalogOrder": 2775
+      "colorGroup": "color-printed-solid-305bc67a0428e5ae",
+      "catalogOrder": 2775,
+      "displayObservation": {
+        "displayHex": "#2552A7",
+        "displayComponents": [
+          "#2552A7"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-bold-blue|Bold Blue"
+      },
+      "displayColorId": "color-printed-solid-305bc67a0428e5ae"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551009",
@@ -1499,14 +1967,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-clear",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-clear",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 139, 140, 140; CMYK (ICC) 45 / 38 / 35 / 1; CIELAB D50/2° L* 55.7, a* −0.2, b* −0.2. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 139, 140, 140; CMYK (ICC) 45 / 38 / 35 / 1; CIELAB D50/2° L* 55.7, a* −0.2, b* −0.2. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-clear|Clear",
-      "catalogOrder": 2776
+      "colorGroup": "color-printed-solid-fde0ad70a0742418",
+      "catalogOrder": 2776,
+      "displayObservation": {
+        "displayHex": "#8B8C8C",
+        "displayComponents": [
+          "#8B8C8C"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-clear|Clear"
+      },
+      "displayColorId": "color-printed-solid-fde0ad70a0742418"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551016",
@@ -1516,22 +1993,31 @@
       "colorName": "Tree Green",
       "sourceCode": "016627551016",
       "codeKind": "sku",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#02521F",
+      "displayComponents": [
+        "#02521F"
+      ],
       "effects": [],
       "sourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-tree-green",
       "codeSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-tree-green",
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-tree-green",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-tree-green",
       "effectSourceUrls": [],
-      "displaySource": "No published HEX in the inspected manufacturer source",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 0, 126, 64; CMYK (ICC) 86 / 11 / 89 / 20. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 0, 126, 64; CMYK (ICC) 86 / 11 / 89 / 20. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-tree-green|Tree Green",
-      "catalogOrder": 2777
+      "colorGroup": "color-printed-solid-b1fccc03b80c8d61",
+      "catalogOrder": 2777,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No published HEX in the inspected manufacturer source",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-tree-green|Tree Green"
+      },
+      "displayColorId": "color-printed-solid-b1fccc03b80c8d61"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551115",
@@ -1551,14 +2037,23 @@
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-pure-cyan",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-pure-cyan",
       "effectSourceUrls": [],
-      "displaySource": "Manufacturer-published printed-swatch HEX",
+      "displaySource": "Shared screen reference · published-display · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 0, 124, 176; CMYK (ICC) 92 / 29 / 4 / 7; CIELAB D50/2° L* 46.27, a* −23.34, b* −40.56. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 0, 124, 176; CMYK (ICC) 92 / 29 / 4 / 7; CIELAB D50/2° L* 46.27, a* −23.34, b* −40.56. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-pure-cyan|Pure Cyan",
-      "catalogOrder": 2778
+      "colorGroup": "color-printed-solid-aca9352bd5779fc4",
+      "catalogOrder": 2778,
+      "displayObservation": {
+        "displayHex": "#007CB0",
+        "displayComponents": [
+          "#007CB0"
+        ],
+        "displaySource": "Manufacturer-published printed-swatch HEX",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-pure-cyan|Pure Cyan"
+      },
+      "displayColorId": "color-printed-solid-aca9352bd5779fc4"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551061",
@@ -1568,22 +2063,31 @@
       "colorName": "Yellow Bird",
       "sourceCode": "016627551061",
       "codeKind": "sku",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#FABE19",
+      "displayComponents": [
+        "#FABE19"
+      ],
       "effects": [],
       "sourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-yellow-bird",
       "codeSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-yellow-bird",
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-yellow-bird",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-yellow-bird",
       "effectSourceUrls": [],
-      "displaySource": "No published HEX in the inspected manufacturer source",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 240, 198, 53; CMYK (ICC) 2 / 16 / 88 / 3. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 240, 198, 53; CMYK (ICC) 2 / 16 / 88 / 3. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-yellow-bird|Yellow Bird",
-      "catalogOrder": 2779
+      "colorGroup": "color-printed-solid-dff83853d101f0f9",
+      "catalogOrder": 2779,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No published HEX in the inspected manufacturer source",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-yellow-bird|Yellow Bird"
+      },
+      "displayColorId": "color-printed-solid-dff83853d101f0f9"
     },
     {
       "id": "ref-printed-solid-jessie-premium-petg-016627551085",
@@ -1593,22 +2097,31 @@
       "colorName": "Neon Yellow",
       "sourceCode": "016627551085",
       "codeKind": "sku",
-      "displayHex": null,
-      "displayComponents": [],
+      "displayHex": "#E2E106",
+      "displayComponents": [
+        "#E2E106"
+      ],
       "effects": [],
       "sourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-neon-yellow",
       "codeSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-neon-yellow",
       "lineSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-neon-yellow",
       "polymerSourceUrl": "https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-neon-yellow",
       "effectSourceUrls": [],
-      "displaySource": "No published HEX in the inspected manufacturer source",
+      "displaySource": "Shared screen reference · manufacturer-swatch · not calibrated",
       "checkedOn": "2026-10-26",
       "evidenceKind": "manufacturer",
       "selectable": true,
       "currentColorVerified": true,
       "note": "Exact product title and literal SKU from official collection product feed. HEX not supplied in this feed; no swatch color inferred. Manufacturer body_html also publishes RGB 215, 240, 0; CMYK (ICC) 16 / 0 / 83 / 0. Values are measured on a printed sample with a Nix Spectro 2; HEX remains the literal manufacturer display reference. Published components: RGB 215, 240, 0; CMYK (ICC) 16 / 0 / 83 / 0. Values measured on a printed sample with a Nix Spectro 2.",
-      "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-neon-yellow|Neon Yellow",
-      "catalogOrder": 2780
+      "colorGroup": "color-printed-solid-0c3d98532a590138",
+      "catalogOrder": 2780,
+      "displayObservation": {
+        "displayHex": null,
+        "displayComponents": [],
+        "displaySource": "No published HEX in the inspected manufacturer source",
+        "colorGroup": "Printed Solid|Jessie Premium PETG|https://www.printedsolid.com/products/jessie-premium-petg-1-75mm-x-neon-yellow|Neon Yellow"
+      },
+      "displayColorId": "color-printed-solid-0c3d98532a590138"
     }
   ],
   "productLines": [
@@ -1724,5 +2237,1187 @@
     }
   ],
   "unresolved": [],
-  "browsingAliases": []
+  "browsingAliases": [],
+  "displayColors": [
+    {
+      "id": "color-printed-solid-03bddca71b55819e",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Black",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#2D2F31"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-bl-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-4ef9da454ba898c8",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "White",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#F6F7F0"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-w-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-c2eddf8c3ea81c4c",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Gun Metal Grey",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#76797C"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-gm-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-46e7174b03db07bb",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Soul Black Glitter",
+      "polymer": "PLA",
+      "effects": [
+        "glitter"
+      ],
+      "components": [
+        "#383939"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-sb-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-3b3a0310b267f77a",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Yellow Bird",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#F7CA39"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-y-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-ca58bfc10d419e40",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "PS Red",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#CD373A"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-r-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-e2a8449b5fe032fa",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Quarter White",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#E7EAE4"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-qw-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-b915f2d048ce5a4e",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "3DPN Vanilla Bean Ice Cream",
+      "polymer": "PLA",
+      "effects": [
+        "translucent/ice appearance (line/color naming; no quantified transmission claim)"
+      ],
+      "components": [
+        "#A3A9AD"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-ma-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-de35791eaca03840",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Tree Green",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#178246"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-g-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-9dcf39d2ac2d1171",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Bold Blue",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#294CA6"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-b-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-dc1b1244269818f4",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Beige 500",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#CCC1A6"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-b500-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-4ac5152400820963",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Blue Ice",
+      "polymer": "PLA",
+      "effects": [
+        "translucent/ice appearance (line/color naming; no quantified transmission claim)"
+      ],
+      "components": [
+        "#1D3757"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-bi-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-4bb4e23b007ec9e8",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Mystery Orange",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#F4612A"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-o-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-f654ee9763431617",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Pure Cyan",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#0081AF"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-pc-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-09e9d0d414f87432",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Purple Eater",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#8057A2"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-pe-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-09f4a1d6e0fa491b",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Design White",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#CCCCC6"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-dw-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-4176d5de2ac1afd9",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Blood Red Light Glitter",
+      "polymer": "PLA",
+      "effects": [
+        "glitter"
+      ],
+      "components": [
+        "#9B3F41"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-br-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-a012ce67bfd61074",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Tree Brown",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#553D32"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-tb-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-02f9868c5a342851",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Red Ice",
+      "polymer": "PLA",
+      "effects": [
+        "translucent/ice appearance (line/color naming; no quantified transmission claim)"
+      ],
+      "components": [
+        "#862829"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-rl-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-a4b9f9ab653199e3",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Golden Winner Glitter",
+      "polymer": "PLA",
+      "effects": [
+        "glitter"
+      ],
+      "components": [
+        "#89752E"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-gw-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-f9efa6fc5b65ca85",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Blue Moon",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#282D5D"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-bm-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-fa736b6a1a6d0439",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Tan 64",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#9E907F"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-t64-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-3e548ed8e857861b",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Safety Orange",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#F67632"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-so-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-d33a45dfd6a33e93",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Pure Magenta",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#D59BBE"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-pm-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-e485cdd21b1e5fc8",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Green Ice",
+      "polymer": "PLA",
+      "effects": [
+        "translucent/ice appearance (line/color naming; no quantified transmission claim)"
+      ],
+      "components": [
+        "#28442E"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-gl-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-f5bf03c150264b94",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Blue Whale Grey",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#4E6481"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-016627550453",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-12ab180d071d7672",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Limer Green",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#2DB23E"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-016627550378",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-bee3c443d317a3f0",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Army Green",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#4E5439"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-ag-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-b14559b1f5158228",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Purple Ice",
+      "polymer": "PLA",
+      "effects": [
+        "translucent/ice appearance (line/color naming; no quantified transmission claim)"
+      ],
+      "components": [
+        "#69376D"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-pl-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-cbf4e0e5b6416b2d",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Brad's Orange Glitter",
+      "polymer": "PLA",
+      "effects": [
+        "glitter"
+      ],
+      "components": [
+        "#D85D36"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-016627550590",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-8a1bb326cc75893c",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Neon Pink",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#FF5E88"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-016627550361",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-7ae417b31df953ab",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Deep Purple",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#604D5F"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-p-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-2bc10d313e27c346",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Natural",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#82817C"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-n-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-6e0e4e58c3b2b66a",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Neon Green",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#9AE50E"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-ng-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-307bf45a859db2e2",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Green Slime Glitter",
+      "polymer": "PLA",
+      "effects": [
+        "glitter"
+      ],
+      "components": [
+        "#899D38"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-gs-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-e0031874e77a1a3c",
+      "productLine": "Jessie Premium PLA",
+      "colorName": "Neon Yellow",
+      "polymer": "PLA",
+      "effects": [],
+      "components": [
+        "#C6F323"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-pla-ps-jpla-ny-175",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-0e2734fa3af63dc7",
+      "productLine": "Jessie Premium Elixir",
+      "colorName": "Nightshade",
+      "polymer": "PLA",
+      "effects": [
+        "silk finish (manufacturer line descriptor)"
+      ],
+      "components": [
+        "#4A3C7A"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-elixir-016627550019",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-2515282947c02322",
+      "productLine": "Jessie Premium Elixir",
+      "colorName": "Royal Ruby",
+      "polymer": "PLA",
+      "effects": [
+        "silk finish (manufacturer line descriptor)"
+      ],
+      "components": [
+        "#C3695B"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-elixir-016627550026",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-89c747d6fb640dc1",
+      "productLine": "Jessie Premium Elixir",
+      "colorName": "Aquamarine",
+      "polymer": "PLA",
+      "effects": [
+        "silk finish (manufacturer line descriptor)"
+      ],
+      "components": [
+        "#61A7BF"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-elixir-016627550040",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-789cc60f6373456a",
+      "productLine": "Jessie Premium Elixir",
+      "colorName": "Misty Green",
+      "polymer": "PLA",
+      "effects": [
+        "silk finish (manufacturer line descriptor)"
+      ],
+      "components": [
+        "#158D75"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-elixir-016627550057",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-b3fa73120cbb5a0b",
+      "productLine": "Jessie Premium Elixir",
+      "colorName": "Abyss",
+      "polymer": "PLA",
+      "effects": [
+        "silk finish (manufacturer line descriptor)"
+      ],
+      "components": [
+        "#646B6C"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-elixir-016627550033",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-7ff048682c34152c",
+      "productLine": "Jessie Premium Elixir",
+      "colorName": "Gold Rush",
+      "polymer": "PLA",
+      "effects": [
+        "silk finish (manufacturer line descriptor)"
+      ],
+      "components": [
+        "#D39C4F"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-elixir-016627550064",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-9031c0dab166c4db",
+      "productLine": "Jessie Premium Elixir",
+      "colorName": "Natural",
+      "polymer": "PLA",
+      "effects": [
+        "silk finish (manufacturer line descriptor)"
+      ],
+      "components": [
+        "#C9D5D4"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-elixir-016627550088",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-242fb09a77b56980",
+      "productLine": "Jessie Premium Elixir",
+      "colorName": "Bronze",
+      "polymer": "PLA",
+      "effects": [
+        "silk finish (manufacturer line descriptor)"
+      ],
+      "components": [
+        "#878260"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-elixir-016627550071",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-e3ffe55f1794a8ea",
+      "productLine": "Jessie Premium Elixir",
+      "colorName": "Electric Lemonade",
+      "polymer": "PLA",
+      "effects": [
+        "silk finish (manufacturer line descriptor)"
+      ],
+      "components": [
+        "#B6B56C"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-elixir-016627550095",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-25570bc037c80364",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "Black",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#333537"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551030",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-150645c5ffa638ae",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "Soul Black Glitter",
+      "polymer": "PETG",
+      "effects": [
+        "glitter"
+      ],
+      "components": [
+        "#2E2E2B"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551047",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-06acb1e1522f2eb1",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "Gun Metal Grey",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#3B3E4A"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551078",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-bc241c5b72083d8d",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "White",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#F1F2EF"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551092",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-468194879a6c2c95",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "Mystery Orange",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#FE8B32"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551023",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-35e230b97c14c47a",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "PS Red",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#E62922"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551108",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-305bc67a0428e5ae",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "Bold Blue",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#2552A7"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551054",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-fde0ad70a0742418",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "Clear",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#8B8C8C"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551009",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-b1fccc03b80c8d61",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "Tree Green",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#02521F"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551016",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-aca9352bd5779fc4",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "Pure Cyan",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#007CB0"
+      ],
+      "checkedOn": "2026-10-26",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551115",
+      "evidenceKind": "published-display",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "screen-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-dff83853d101f0f9",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "Yellow Bird",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#FABE19"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551061",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    },
+    {
+      "id": "color-printed-solid-0c3d98532a590138",
+      "productLine": "Jessie Premium PETG",
+      "colorName": "Neon Yellow",
+      "polymer": "PETG",
+      "effects": [],
+      "components": [
+        "#E2E106"
+      ],
+      "checkedOn": "2026-10-27",
+      "selectionMode": "policy",
+      "sourceMaterialId": "ref-printed-solid-jessie-premium-petg-016627551085",
+      "evidenceKind": "manufacturer-swatch",
+      "relationship": "same-product-page-label",
+      "reviewStatus": "image-reference-only",
+      "calibrated": false,
+      "renderBaseColorHex": null,
+      "physicalEquivalence": "not-asserted",
+      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    }
+  ]
 }

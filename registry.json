@@ -1,10 +1,10 @@
 {
   "format": "ussa-filament-registry/2",
-  "catalogVersion": "0.1.2",
-  "checkedOn": "2026-10-27",
+  "catalogVersion": "0.2.0",
+  "checkedOn": "2026-10-28",
   "sourceAppCommit": "a90322aa3ba8b0b7a8a327cdbc5afea5adcb0d2f",
   "sourceAppIssue": 532,
-  "previousRegistryCommit": "670d2217b7bc0561ca8171362f0dbba8e7a966c4",
+  "previousRegistryCommit": "f829f7e58b76a7c3c71f68d04fcbd24f3114e1a5",
   "sourceMetadata": {
     "expandedCatalog": {
       "checkedOn": "2026-10-27",
@@ -51,138 +51,138 @@
   "files": {
     "brands/3d-fuel.json": {
       "brand": "3D-Fuel",
-      "sha256": "76cc71281f3beac5c8b7b1f7f32554aa8abca1579af0f388a87e0a736e06980c",
-      "bytes": 277767
+      "sha256": "4b461c99324875fb97490dfaac4c19a64d840fc7bebc51ede4261eae6a5f24ef",
+      "bytes": 479335
     },
     "brands/anycubic.json": {
       "brand": "Anycubic",
-      "sha256": "ab0c1720c092b6a2c39a26b05dcee7c67057506efbf074089396e13eb2c12a41",
-      "bytes": 552275
+      "sha256": "81391f32b70847f517ca01f87974ce47a0edc07bf38f69b4b47cfb9122dc6694",
+      "bytes": 872359
     },
     "brands/atomic-filament.json": {
       "brand": "Atomic Filament",
-      "sha256": "8bc45a919568d98eafca28da429c26eed86f92271673f3a6930ccb3f5d02eafa",
-      "bytes": 546956
+      "sha256": "b7d7a93f62d807a4b05a66dc35e538ff5a5215853381acaf064e533b2764a8d7",
+      "bytes": 820170
     },
     "brands/azurefilm.json": {
       "brand": "AzureFilm",
-      "sha256": "a0bee23f8be93eb0f3c37651d22ec92a0c31752df83b05abb797ed762174cca2",
-      "bytes": 714528
+      "sha256": "9fd4701ece821389bdc28371ff8f909ec6be80377b473a2b008b69dc5ef3db8f",
+      "bytes": 1161605
     },
     "brands/bambu-lab.json": {
       "brand": "Bambu Lab",
-      "sha256": "5ad219fc4a211af4a40a4915538d1d59866f4429819e374da60f42f3de75349e",
-      "bytes": 547366
+      "sha256": "0d9f862cb7d1b78ac8a092876f4fa79337b79c2a3a200bb2631f1a488b328e16",
+      "bytes": 917448
     },
     "brands/basf-forward-am-ultrafuse.json": {
       "brand": "BASF / Forward AM / Ultrafuse",
-      "sha256": "5189249769781c825760d623535a980f441a1bf8b12dce72bb54050804c72d64",
-      "bytes": 178708
+      "sha256": "0eb3d2301a3e4d41c1a07fb1e7e718e0534e641e7774e29ef8539abc0e22630c",
+      "bytes": 251910
     },
     "brands/colorfabb.json": {
       "brand": "colorFabb",
-      "sha256": "8678978fe90fc4fb63c1d992edc5972701ecf245daeec8877676b74e8e7db6b3",
-      "bytes": 832765
+      "sha256": "b033678f8969a8ad178c41a78469d84ed4d048536bfd108527827f68b15bcd46",
+      "bytes": 1295219
     },
     "brands/creality.json": {
       "brand": "Creality",
-      "sha256": "f5a2753609d7ac70f20c0c4f1fb8d9b3d15f1494adf91c6a34e8218cd3d0f4d1",
-      "bytes": 309752
+      "sha256": "bea819f8482a8b14535160c43168ef8121ef154069d5dab31e88a8d588a5925c",
+      "bytes": 526044
     },
     "brands/elegoo.json": {
       "brand": "Elegoo",
-      "sha256": "2c4ec24a163ba45fa3bb3842587f5dedf59c2fa519180d93eca904218af638e5",
-      "bytes": 1286719
+      "sha256": "650490417ddcee71dde796ead44baa70969601154fde7c23b36e523fd8755972",
+      "bytes": 1743760
     },
     "brands/esun.json": {
       "brand": "eSUN",
-      "sha256": "3fc6d07d213826f55b3714cbc9c8cfbf65222707fcafff7efdc7e7a40ace49d4",
-      "bytes": 849797
+      "sha256": "83dd37f2c2fc6a9ce2e53e97c438bc573ac05f864f475dd6203e172599fb789d",
+      "bytes": 1558248
     },
     "brands/extrudr.json": {
       "brand": "Extrudr",
-      "sha256": "537c557d3533741abc0de4624a268a83afa2b75597bc4f95c1e0255f53a2970a",
-      "bytes": 1563448
+      "sha256": "24aeac99919926582518534cd23710748e4aa917be384246fb5cb087232b6966",
+      "bytes": 1993641
     },
     "brands/fiberlogy.json": {
       "brand": "Fiberlogy",
-      "sha256": "9f5d657abb3bd3d1a2a470366f9fc49d71c4c039d4d5193c8d86c743ad2586a4",
-      "bytes": 781927
+      "sha256": "2aa9c0cb6476f4ab8db1b0912f93304689cb4a5541a5a73cff0885ee5875d091",
+      "bytes": 1228840
     },
     "brands/fillamentum.json": {
       "brand": "Fillamentum",
-      "sha256": "5cd401f4d714bd9ed903cf1e459ebacf97e9ff5bd3cddeb919c604e5d2ffeced",
-      "bytes": 448846
+      "sha256": "0e11a78330bae634e401a4d8b914f347be83de97de58700384abb0a2c41557f1",
+      "bytes": 661545
     },
     "brands/flashforge.json": {
       "brand": "Flashforge",
-      "sha256": "ede4dc31295e92f16dc36c7eeb183047acc9f8113ea6e73c59d34612f1685369",
-      "bytes": 349848
+      "sha256": "ce59cc5b1276419c89ffeac025c80b660f0949c6b5c875741d54598fad5bcf9e",
+      "bytes": 561475
     },
     "brands/formfutura.json": {
       "brand": "FormFutura",
-      "sha256": "b412de79976645fe282df212bc10e0cbdddd6636d8c777cd87c21b6cb35f5c23",
-      "bytes": 1223367
+      "sha256": "79b03aa3e62516b16164d5a49d953391e2c97d35bd41fd0066bcd4dd64652390",
+      "bytes": 2105901
     },
     "brands/hatchbox.json": {
       "brand": "HATCHBOX",
-      "sha256": "0605d9abcedef728c4f6137b91948fa55bfb926290832127bff30862773f1033",
-      "bytes": 1023260
+      "sha256": "417f0295af7f27194772923fb8816a5201ad4edf16f56dcad7645caab45fd1ef",
+      "bytes": 1491035
     },
     "brands/lehvoss.json": {
       "brand": "Lehvoss",
-      "sha256": "cc2c224d724a4ead85ca568ee897923dfa054ff8b764834ae8b6e0904b2b2df2",
-      "bytes": 3314
+      "sha256": "14616bf2804665c87ea9415b050e4d02068323ab2a73faaf4d5cd8691761634e",
+      "bytes": 4519
     },
     "brands/overture.json": {
       "brand": "OVERTURE",
-      "sha256": "c33f972fe58e5a3c7e3a5cc69a24551e3880d1f99ec155d4f985f824ab00b9ed",
-      "bytes": 954946
+      "sha256": "c8d7d4d1996747400be611a0fd29664392455818aaed53b104ec91a83427dd86",
+      "bytes": 1483053
     },
     "brands/polymaker.json": {
       "brand": "Polymaker",
-      "sha256": "28fa33c819b9fbb8db74fe7287e00b9c121844844a6ba43c179fc9c3880ecd77",
-      "bytes": 2280255
+      "sha256": "4fc022985851ed990f101495bd90deb8c03b9f70847b3a75367d92d7c4fe4926",
+      "bytes": 3181497
     },
     "brands/printed-solid.json": {
       "brand": "Printed Solid",
-      "sha256": "3fa614a98373a5adcdaa8a3ee21a2129ee90518b118370be27107f4b942a611f",
-      "bytes": 106462
+      "sha256": "b036d138ef57990cae74a9a4df8e54657ffb8c8bde186c62fea16951d97ab478",
+      "bytes": 178035
     },
     "brands/proto-pasta.json": {
       "brand": "Proto-pasta",
-      "sha256": "befae010fef365d13e93ca633d0dc115622135264d228746d82f1b978415f72f",
-      "bytes": 474697
+      "sha256": "e9309b5ecf824c7528e12864def3e7c1b3edc43c02e25865796011c56329cd00",
+      "bytes": 692842
     },
     "brands/prusament.json": {
       "brand": "Prusament",
-      "sha256": "3b41023106ec2a3fcfc4166130fb50818f0e71fc251bee64b7b248f08824c14b",
-      "bytes": 222988
+      "sha256": "ea7f646f121e1e2f4748effe65fd8deef7857637bb5a1f24a6dffbd4fdad77a3",
+      "bytes": 360232
     },
     "brands/recreus.json": {
       "brand": "Recreus",
-      "sha256": "2bbba1de646fc277f885052e9935cf356c42d16222a11845ae9786ee4f374fcc",
-      "bytes": 230695
+      "sha256": "35e557809f2448d2d766990cb689aebb41df0e6675b8d20aaef781f7da995011",
+      "bytes": 339181
     },
     "brands/snapmaker.json": {
       "brand": "Snapmaker",
-      "sha256": "8cfca1198bae251583f63c4684022a3549582e6a168790025e0a6f535a5d581a",
-      "bytes": 199736
+      "sha256": "f89627c0e27633b2ac7f8756ccbcfe461215fd1d95cdc13d0f57d9770be54410",
+      "bytes": 390502
     },
     "brands/spectrum.json": {
       "brand": "Spectrum",
-      "sha256": "4a994a7390331f67f576ed8dc639311c999e4840b9a50b8838c01b0cc98a2953",
-      "bytes": 2004084
+      "sha256": "d9a9f3832d414a5c9218f989c52f663be66bd63158f84d1c4e6a7f0b4b04dba7",
+      "bytes": 2793247
     },
     "brands/sunlu.json": {
       "brand": "SUNLU",
-      "sha256": "ab9a8d19d954f30ba641bacb8ade5850d82c5f15f855ce84d949d767f48acc99",
-      "bytes": 1274317
+      "sha256": "1802448d2aef1854ce46c40baeaa35a5bbefca0338d790e2028cddd98b42ea3a",
+      "bytes": 2152655
     },
     "brands/the-filament.json": {
       "brand": "The Filament",
-      "sha256": "fdcc9f19236fb6f8f969f26cf9a77c5b155d3fb1d26068fd4e684c4c5c74ea14",
-      "bytes": 617558
+      "sha256": "177d341b0d0bc4a654ced70b245b94fbc3f0e1c1ca6309b14758b2529a6758a2",
+      "bytes": 830996
     }
   },
   "counts": {
@@ -190,7 +190,7 @@
     "inventoryProductLines": 934,
     "displayReferences": 7388,
     "selectableReferences": 9991,
-    "browsingLines": 900,
+    "browsingLines": 851,
     "brands": 27
   },
   "name": "USSA Filament Registry"
