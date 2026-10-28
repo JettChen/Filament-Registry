@@ -12,6 +12,7 @@ const fixedFiles = [
   "scripts/update-manifest.mjs", "scripts/publication.mjs", "scripts/colors.mjs", "scripts/build-display-colors.mjs", "scripts/export-consumer.mjs",
   "SERIES-ALIASES.md", "scripts/series.mjs", "scripts/audit-series.mjs", "tests/series.test.mjs",
   "COLOR-CONTRACT.md", "tests/palette-quality.test.mjs", "tests/colors.test.mjs", "tests/fixtures/public-0.1.2.json",
+  "P1-EVIDENCE-REVIEW.md", "tests/p1-evidence.test.mjs", "tests/fixtures/public-0.2.0.json",
   "tests/registry.test.mjs", "tests/compatibility.test.mjs", "tests/publication.test.mjs", "registry.json",
 ];
 const originalNotices = new Set(["licenses/SpoolmanDB-MIT.txt", "licenses/AGPL-3.0.txt"]);

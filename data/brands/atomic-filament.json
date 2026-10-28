@@ -12315,16 +12315,34 @@
       "components": [
         "#2B2A2D"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-pla-707568781180",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/black-pla-filament2-85",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/black-pla-filament2-85",
+          "https://atomicfilament.com/products/black-pla-filament",
+          "https://atomicfilament.com/products/3-5kg-black-pla-filament2-85",
+          "https://atomicfilament.com/products/3-5kg-black-pla-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #2B2A2D currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 7.26); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-pla-707568781180",
@@ -12423,16 +12441,34 @@
       "components": [
         "#E2E5E2"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-petg-pro-742259872921",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/crystal-clear-natural-petg-pro-2-85mm-1kg",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/crystal-clear-natural-petg-pro-2-85mm-1kg",
+          "https://atomicfilament.com/products/crystal-clear-natural-petg-pro",
+          "https://atomicfilament.com/products/3-5kg-crystal-clear-natural-petg-pro-2-85mm",
+          "https://atomicfilament.com/products/3-5kg-crystal-clear-natural-petg-pro"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #E2E5E2 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 15.84); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-petg-pro-742259872921",
@@ -12545,16 +12581,32 @@
       "components": [
         "#E2E5DE"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-abs-707568780916",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/bright-white-abs-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/bright-white-abs-filament",
+          "https://atomicfilament.com/products/3-5kg-bright-white-abs-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #E2E5DE currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 10.54); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-abs-707568780916",
@@ -12603,16 +12655,32 @@
       "components": [
         "#DEE5F5"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-petg-pro-707568780282",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/bright-white-opaque-petg-pro",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/bright-white-opaque-petg-pro",
+          "https://atomicfilament.com/products/3-5kg-bright-white-opaque-petg-pro"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #DEE5F5 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 10.53); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-petg-pro-707568780282",
@@ -12767,16 +12835,32 @@
       "components": [
         "#312F31"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-petg-pro-707568780619",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/deep-black-opaque-petg-pro",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/deep-black-opaque-petg-pro",
+          "https://atomicfilament.com/products/3-5kg-deep-black-opaque-petg-pro"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #312F31 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 7.16); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-petg-pro-707568780619",
@@ -12855,16 +12939,32 @@
       "components": [
         "#3C3D3F"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-petg-pro-707568781883",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/extreme-jet-black-petg-pro",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/extreme-jet-black-petg-pro",
+          "https://atomicfilament.com/products/3-5kg-extreme-jet-black-petg-pro"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #3C3D3F currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 12.31); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-petg-pro-707568781883",
@@ -12889,16 +12989,32 @@
       "components": [
         "#2B2A29"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-pla-707568780343",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/extreme-jet-black-pla-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/extreme-jet-black-pla-filament",
+          "https://atomicfilament.com/products/3-5kg-extreme-jet-black-pla-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #2B2A29 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 7.07); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-pla-707568780343",
@@ -12925,16 +13041,32 @@
       "components": [
         "#434444"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-flame-retardant-abs-sabic-fr15u-707568781128",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/flame-retardant-black-abs-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/flame-retardant-black-abs-filament",
+          "https://atomicfilament.com/products/3-5kg-flame-retardant-sabic-fr15u-black-abs"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #434444 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 5.52); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-flame-retardant-abs-sabic-fr15u-707568781128",
@@ -12993,16 +13125,32 @@
       "components": [
         "#5E666C"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-petg-pro-707568781937",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/gray-petg-pro",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/gray-petg-pro",
+          "https://atomicfilament.com/products/3-5kg-gray-petg-pro"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #5E666C currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 28.16); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-petg-pro-707568781937",
@@ -13221,16 +13369,32 @@
       "components": [
         "#C0CCCE"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-pla-707568780350",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/marble-pla-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/marble-pla-filament",
+          "https://atomicfilament.com/products/3-5kg-marble-pla-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #C0CCCE currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 9.08); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-pla-707568780350",
@@ -13289,16 +13453,32 @@
       "components": [
         "#EAEAE3"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-meltmiser-pla-734896201806",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/meltmiser-white-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/meltmiser-white-pla",
+          "https://atomicfilament.com/products/3-5kg-meltmiser-white-pla-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #EAEAE3 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 7.06); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-meltmiser-pla-734896201806",
@@ -13381,16 +13561,32 @@
       "components": [
         "#D3D6CB"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-abs-707568781517",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/natural-abs-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/natural-abs-filament",
+          "https://atomicfilament.com/products/3-5kg-natural-abs-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #D3D6CB currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 13.86); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-abs-707568781517",
@@ -13418,16 +13614,32 @@
       "components": [
         "#FF6334"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-petg-pro-707568780923",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/neon-orange-uv-reactive-opaque-petg-pro",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/neon-orange-uv-reactive-opaque-petg-pro",
+          "https://atomicfilament.com/products/3-5kg-neon-orange-uv-reactive-opaque-petg"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #FF6334 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 10.01); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-petg-pro-707568780923",
@@ -13452,16 +13664,32 @@
       "components": [
         "#0B7BC1"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-pla-707568780602",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/perfect-blue-pla-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/perfect-blue-pla-filament",
+          "https://atomicfilament.com/products/3-5kg-perfect-blue-pla-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #0B7BC1 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 20.08); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-pla-707568780602",
@@ -13486,16 +13714,32 @@
       "components": [
         "#F27331"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-pla-707568780442",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/perfect-orange-pla-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/perfect-orange-pla-filament",
+          "https://atomicfilament.com/products/3-5kg-perfect-orange-pla-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #F27331 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 19.76); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-pla-707568780442",
@@ -13520,16 +13764,32 @@
       "components": [
         "#C14146"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-abs-707568780893",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/perfect-red-abs-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/perfect-red-abs-filament",
+          "https://atomicfilament.com/products/3-5kg-perfect-red-abs-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #C14146 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 14.01); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-abs-707568780893",
@@ -13590,16 +13850,32 @@
       "components": [
         "#C33F31"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-pla-707568780374",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/1-kg-red-pla-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/1-kg-red-pla-filament",
+          "https://atomicfilament.com/products/3-5kg-perfect-red-pla-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #C33F31 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 18.59); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-pla-707568780374",
@@ -13624,16 +13900,32 @@
       "components": [
         "#F2D64A"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-pla-707568780817",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/yellow-pla-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/yellow-pla-filament",
+          "https://atomicfilament.com/products/3-5kg-perfect-yellow-pla-filament-1"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #F2D64A currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 9.04); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-pla-707568780817",
@@ -13658,16 +13950,32 @@
       "components": [
         "#234F96"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-pla-707568780428",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/1-kg-blue-pla-filament",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/1-kg-blue-pla-filament",
+          "https://atomicfilament.com/products/3-5kg-royal-blue-pla-filament"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #234F96 currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 30.64); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-pla-707568780428",
@@ -15128,16 +15436,32 @@
       "components": [
         "#3D4B4B"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-atomic-filament-petg-pro-707568781975",
       "evidenceKind": "community",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Retain the indicative community screen reference also quoted on the manufacturer page with its explicit unverified-value caveat. Product photography is not calibrated color evidence.",
+      "reviewedEvidence": {
+        "kind": "community",
+        "sourceUrl": "https://atomicfilament.com/products/mysterious-abyss-petg-pro",
+        "checkedOn": "2026-10-28",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://atomicfilament.com/products/mysterious-abyss-petg-pro",
+          "https://atomicfilament.com/products/mysterious-abyss-v2-pearl-petg-pro-copy"
+        ],
+        "finding": "Atomic's exact product page provides the same indicative HEX #3D4B4B currently selected, but identifies Filamentcolors.xyz as its source and explicitly says it cannot verify the value. The official product photo ROI differs (largest reported screen ΔE76 25.59); photographed filament under unknown lighting is not calibrated color evidence. Keep the current display reference and do not treat the image delta as a source error.",
+        "method": "Compared frozen exact-SKU/page observations; checked accessible current Atomic pages for product identity and color-reference wording; distinguished copied indicative HEX (unverified by manufacturer) from product photo ROI screen RGB. No physical albedo inference."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-atomic-filament-petg-pro-707568781975",

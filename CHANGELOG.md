@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.1 - Unreleased candidate (2026-10-28)
+
+- Review 158 shared screen-display groups. Resolve 92 display-reference differences while retaining qualified display values; keep 52 upstream-evidence reviews and 12 variant-scope reviews pending. This is a triage result, not a claim that all source disagreements are settled.
+- Correct two SUNLU white-photo ROI observations that sampled spool flanges; retain their original SHA-bound observations as rejected and record filament-winding replacements as observations, not selected color values.
+- Preserve all 10,357 material IDs, 9,991 selectable references and 7,461 display IDs. Change only four eSUN rows' default new-selection HEX from `#E3E4D4` to the currently published `#F6F6F6`; saved design color snapshots remain unchanged.
+- Add explicit display-reference rejection/replacement records, evidence-review status, and eligible versus immutable historical conflicting observations. See [P1-EVIDENCE-REVIEW.md](P1-EVIDENCE-REVIEW.md), [COLOR-CONTRACT.md](COLOR-CONTRACT.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
+- Candidate documentation and data only. 0.2.1 is not published or deployed; the released 0.2.0 contract and references remain intact.
+
 ## 0.2.0 - 2026-10-28
 
 - Preserve all 10,357 material IDs and 9,991 selectable references while separating package/source identities from shared screen-display groups. Retain original record display observations and all 7,388 source-reference observations.

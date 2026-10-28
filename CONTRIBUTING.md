@@ -27,3 +27,11 @@ node scripts/publication.mjs
 Submit original contributions under project MIT scope, or identify the actual upstream license and your right to contribute. Preserve required notices. Do not upload personal contact details, credentials, private correspondence or source archives. Use an appropriate public Git identity and no-reply email. No identity document, CLA or extra downstream-use approval is required.
 
 Official main requires CI and maintainer approval of the current head. CODEOWNERS alone does not enforce review: actual branch rules must do that. Fork checks use read-only permissions and no publication secrets. Start partners with fork-based contributions; a personal-repository Collaborator role also permits writing/merging. Only authorized maintainers publish official tags/releases.
+
+## Evidence review lifecycle
+
+For a disputed display reference, review the exact current manufacturer product page or feed and bind each observation to its SKU/variant, refill/spool status, generation/formula, effect and named color. A generic no-variant selector is weaker than an exact product/color control. Use a manufacturer-published numeric value when it clearly applies; otherwise a photo sample is only an uncalibrated screen observation. Do not infer measured color or physical equivalence from a product image.
+
+Record a rejected capture in `displayReferenceReviews` with its original SHA-256, reason and replacement observation. Keep the source capture and all historical conflicts unchanged. Add only evidence that qualifies for selection to `eligibleObservations`; retain excluded evidence in `conflictingObservations`. Set the group's `evidenceReview.status` to resolved only when the source evidence supports the decision. Use pending upstream verification or pending variant scope when the evidence cannot settle it, and record the URLs, date, finding and method. Pending review is preferable to inventing a correction or merging product variants.
+
+Maintain published material and display IDs. A Registry correction affects future selections only; never rewrite a saved design's `colorHex`. See the scope and candidate review counts in [P1-EVIDENCE-REVIEW.md](P1-EVIDENCE-REVIEW.md). The 0.2.1 documentation and data are an unreleased candidate until separately reviewed and published.

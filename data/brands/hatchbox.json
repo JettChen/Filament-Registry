@@ -21744,6 +21744,17 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.hatchbox3d.com/collections/pla-1-75mm",
+          "https://www.hatchbox3d.com/products/3d-rs-pla1kg-wht-pck",
+          "https://www.hatchbox3d.com/products/3d-pla-1kg1-75-wht"
+        ],
+        "finding": "HATCHBOX official pages distinguish a White PLA refill (SKU 3D RS-PLA1KG-WHT) from the White PLA spool (SKU 3D PLA-1KG1.75-WHT). They are separate packaging SKUs; both describe white PLA, and their product photos differ. This does not establish different filament formulation/color or justify splitting the stable material/color identity. No official numeric color specification was found.",
+        "method": "Checked both current official HATCHBOX product records and their exact SKU, refill/spool description, and page imagery; compared with selected community White PLA reference. Did not infer from the image pixels."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-hatchbox-pla-v-14e1a3fa2bcd",

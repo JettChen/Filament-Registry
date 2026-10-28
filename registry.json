@@ -1,10 +1,10 @@
 {
   "format": "ussa-filament-registry/2",
-  "catalogVersion": "0.2.0",
+  "catalogVersion": "0.2.1",
   "checkedOn": "2026-10-28",
   "sourceAppCommit": "a90322aa3ba8b0b7a8a327cdbc5afea5adcb0d2f",
   "sourceAppIssue": 532,
-  "previousRegistryCommit": "f829f7e58b76a7c3c71f68d04fcbd24f3114e1a5",
+  "previousRegistryCommit": "6a377f9603d1baa1c0c9f521f6517be9f2ee1a8e",
   "sourceMetadata": {
     "expandedCatalog": {
       "checkedOn": "2026-10-27",
@@ -61,8 +61,8 @@
     },
     "brands/atomic-filament.json": {
       "brand": "Atomic Filament",
-      "sha256": "b7d7a93f62d807a4b05a66dc35e538ff5a5215853381acaf064e533b2764a8d7",
-      "bytes": 820170
+      "sha256": "21856460936308df325633efb833a0d6ca29246e294f536bf3da8b30bab4b174",
+      "bytes": 849872
     },
     "brands/azurefilm.json": {
       "brand": "AzureFilm",
@@ -86,8 +86,8 @@
     },
     "brands/creality.json": {
       "brand": "Creality",
-      "sha256": "bea819f8482a8b14535160c43168ef8121ef154069d5dab31e88a8d588a5925c",
-      "bytes": 526044
+      "sha256": "f3a12fb680d5b3b089bf266be68e77b1ec7285ba37becd579c28ed060e25dc33",
+      "bytes": 537515
     },
     "brands/elegoo.json": {
       "brand": "Elegoo",
@@ -96,8 +96,8 @@
     },
     "brands/esun.json": {
       "brand": "eSUN",
-      "sha256": "83dd37f2c2fc6a9ce2e53e97c438bc573ac05f864f475dd6203e172599fb789d",
-      "bytes": 1558248
+      "sha256": "6bb46094d43a41d745f6a1921ed5625ac53779c472efe6dc80cd4797a41412d4",
+      "bytes": 1561493
     },
     "brands/extrudr.json": {
       "brand": "Extrudr",
@@ -121,13 +121,13 @@
     },
     "brands/formfutura.json": {
       "brand": "FormFutura",
-      "sha256": "79b03aa3e62516b16164d5a49d953391e2c97d35bd41fd0066bcd4dd64652390",
-      "bytes": 2105901
+      "sha256": "f8650e9ca13a7ed55d6393ab87d61ef573d594c9d43e0bf337485809bb3e2977",
+      "bytes": 2176242
     },
     "brands/hatchbox.json": {
       "brand": "HATCHBOX",
-      "sha256": "417f0295af7f27194772923fb8816a5201ad4edf16f56dcad7645caab45fd1ef",
-      "bytes": 1491035
+      "sha256": "6836c5a94669c0996cceb776559c5f16b070a7eb5dcbbfb66f04bced5c7ba84f",
+      "bytes": 1492034
     },
     "brands/lehvoss.json": {
       "brand": "Lehvoss",
@@ -141,8 +141,8 @@
     },
     "brands/polymaker.json": {
       "brand": "Polymaker",
-      "sha256": "4fc022985851ed990f101495bd90deb8c03b9f70847b3a75367d92d7c4fe4926",
-      "bytes": 3181497
+      "sha256": "a17d75506723a07964393e4d989c918d81b02160e57be57d2971a37e124278b2",
+      "bytes": 3230263
     },
     "brands/printed-solid.json": {
       "brand": "Printed Solid",
@@ -166,8 +166,8 @@
     },
     "brands/snapmaker.json": {
       "brand": "Snapmaker",
-      "sha256": "f89627c0e27633b2ac7f8756ccbcfe461215fd1d95cdc13d0f57d9770be54410",
-      "bytes": 390502
+      "sha256": "e487cbdd1a73794b373a16de19f5c73cf3470e3ab620224201cfd138b8cb9206",
+      "bytes": 391643
     },
     "brands/spectrum.json": {
       "brand": "Spectrum",
@@ -176,8 +176,8 @@
     },
     "brands/sunlu.json": {
       "brand": "SUNLU",
-      "sha256": "1802448d2aef1854ce46c40baeaa35a5bbefca0338d790e2028cddd98b42ea3a",
-      "bytes": 2152655
+      "sha256": "6f5e8e64c47854ed07de4af940293a03306e074119073056f08b9dd898fe108a",
+      "bytes": 2159957
     },
     "brands/the-filament.json": {
       "brand": "The Filament",

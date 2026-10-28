@@ -40425,6 +40425,15 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://store.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll"
+        ],
+        "finding": "The community value #0CCEB4 is linked to the named SUNLU PLA+ Mint Green filament. The supplied official evidence is a product image, not a numeric manufacturer color specification. Its image ROI differs only modestly (reported screen ΔE76 7.37); this cannot establish a correction.",
+        "method": "Compared exact named color/SKU community record with supplied official SUNLU color-specific product image; treated image ROI RGB as uncalibrated screen appearance, not physical or numeric colorimetry."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-sunlu-602a3a0bdb061ba877066b0bc2f0ccc9",
@@ -42177,16 +42186,32 @@
       "components": [
         "#F1F0EE"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-sunlu-3f299f5d6c18f641cf6248a6bc65986c",
       "evidenceKind": "manufacturer-swatch",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Keep the existing white screen decision; a rejected spool-flange crop must never become eligible again. Corrected photo samples are supporting display observations, not manufacturer numeric HEX or measured albedo.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-swatch",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA_Matte_white.jpg?v=1778146279",
+        "checkedOn": "2026-10-28",
+        "method": "Retain the current qualified white screen reference. Reject the dark 3kg spool-flange observation and retain a corrected winding-only image sample as uncalibrated supporting evidence."
+      },
+      "evidenceReview": {
+        "status": "source-error-corrected",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/plamattefilament3kgspool_1_white.jpg?v=1728878355",
+          "https://store.sunlu.com/products/matte-pla-3kg-large-spool-3d-printer-filament-3kg"
+        ],
+        "finding": "The archived dark 3kg White sample came from the spool flange. A manually checked winding-only crop supplies a replacement image observation; the currently selected white display remains unchanged.",
+        "method": "Per-channel median of the manually inspected white filament winding region [240,250,380,450], avoiding the dark spool flanges and printed models. An uncalibrated screen observation, not manufacturer numeric HEX or measured albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-sunlu-3f299f5d6c18f641cf6248a6bc65986c",
@@ -42198,6 +42223,26 @@
           "materialId": "ref-sunlu-c26919c330558948a805397505a07438",
           "components": [
             "#141C35"
+          ]
+        },
+        {
+          "materialId": "ref-sunlu-c26919c330558948a805397505a07438",
+          "components": [
+            "#D1D4D8"
+          ]
+        }
+      ],
+      "eligibleObservations": [
+        {
+          "materialId": "ref-sunlu-3f299f5d6c18f641cf6248a6bc65986c",
+          "components": [
+            "#F1F0EE"
+          ]
+        },
+        {
+          "materialId": "ref-sunlu-c26919c330558948a805397505a07438",
+          "components": [
+            "#D1D4D8"
           ]
         }
       ]
@@ -42719,16 +42764,32 @@
       "components": [
         "#F8F8F8"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-sunlu-113b06d6aa921afe2069f44f59fa7713",
       "evidenceKind": "manufacturer-swatch",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Keep the existing white screen decision; a rejected spool-flange crop must never become eligible again. Corrected photo samples are supporting display observations, not manufacturer numeric HEX or measured albedo.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-swatch",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/PLA_META_White.jpg?v=1778144923",
+        "checkedOn": "2026-10-28",
+        "method": "Retain the current qualified white screen reference. Reject the dark 3kg spool-flange observation and retain a corrected winding-only image sample as uncalibrated supporting evidence."
+      },
+      "evidenceReview": {
+        "status": "source-error-corrected",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/plametawhite3kg_1.jpg?v=1728872727",
+          "https://store.sunlu.com/products/pla-metamacaron-colors-3kg-large-spool-3d-printer-filament-3kg"
+        ],
+        "finding": "The archived dark 3kg White sample came from the spool flange. A manually checked winding-only crop supplies a replacement image observation; the currently selected white display remains unchanged.",
+        "method": "Per-channel median of the manually inspected white filament winding region [240,250,380,450], avoiding the dark spool flanges and printed models. An uncalibrated screen observation, not manufacturer numeric HEX or measured albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-sunlu-113b06d6aa921afe2069f44f59fa7713",
@@ -42740,6 +42801,26 @@
           "materialId": "ref-sunlu-60f576677142ac4f78d9c99df4eb72d3",
           "components": [
             "#101B36"
+          ]
+        },
+        {
+          "materialId": "ref-sunlu-60f576677142ac4f78d9c99df4eb72d3",
+          "components": [
+            "#E7E8EB"
+          ]
+        }
+      ],
+      "eligibleObservations": [
+        {
+          "materialId": "ref-sunlu-113b06d6aa921afe2069f44f59fa7713",
+          "components": [
+            "#F8F8F8"
+          ]
+        },
+        {
+          "materialId": "ref-sunlu-60f576677142ac4f78d9c99df4eb72d3",
+          "components": [
+            "#E7E8EB"
           ]
         }
       ]
@@ -48865,6 +48946,52 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred."
+    }
+  ],
+  "displayReferenceReviews": [
+    {
+      "materialId": "ref-sunlu-c26919c330558948a805397505a07438",
+      "status": "rejected",
+      "referenceSha256": "a8bc24d3f21c8dc8680e2b58fb0f6bdf06d55783a09636a9da54fe1ed9ff7ba4",
+      "checkedOn": "2026-10-28",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/plamattefilament3kgspool_1_white.jpg?v=1728878355",
+      "reason": "The original fixed ROI sampled the dark spool flange rather than white filament. Preserve that archived observation but exclude it from automatic display selection; the replacement samples only the white filament windings.",
+      "replacement": {
+        "id": "ref-sunlu-c26919c330558948a805397505a07438",
+        "components": [
+          "#D1D4D8"
+        ],
+        "kind": "manufacturer-swatch",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/plamattefilament3kgspool_1_white.jpg?v=1728878355",
+        "providerId": "DLZ-US-SL-PLAYG-WT-3KGSPOOL; reviewed filament-only ROI; 151417462fce6d9b3965b99e516c121e41d62d01299e578acb4c4e3c8f03d14b",
+        "method": "Per-channel median of the manually inspected white filament winding region [240,250,380,450], avoiding the dark spool flanges and printed models. An uncalibrated screen observation, not manufacturer numeric HEX or measured albedo.",
+        "checkedOn": "2026-10-28",
+        "imageSha256": "151417462fce6d9b3965b99e516c121e41d62d01299e578acb4c4e3c8f03d14b",
+        "sampleRegion": "[240,250,380,450]",
+        "catalogOrder": 5340
+      }
+    },
+    {
+      "materialId": "ref-sunlu-60f576677142ac4f78d9c99df4eb72d3",
+      "status": "rejected",
+      "referenceSha256": "567c5ea89aa17198405e27cda84eb01cd4c7d21f85c7573621a138c9bac862dd",
+      "checkedOn": "2026-10-28",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/plametawhite3kg_1.jpg?v=1728872727",
+      "reason": "The original fixed ROI sampled the dark spool flange rather than white filament. Preserve that archived observation but exclude it from automatic display selection; the replacement samples only the white filament windings.",
+      "replacement": {
+        "id": "ref-sunlu-60f576677142ac4f78d9c99df4eb72d3",
+        "components": [
+          "#E7E8EB"
+        ],
+        "kind": "manufacturer-swatch",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0152/6507/1190/files/plametawhite3kg_1.jpg?v=1728872727",
+        "providerId": "DLZ-US-SL-PLAMT-WT-3KGSPOOL; reviewed filament-only ROI; 172598b78199bdb0bcbc15ee45dd5ab85121e6f2d660daa3cd165048d5f97423",
+        "method": "Per-channel median of the manually inspected white filament winding region [240,250,380,450], avoiding the dark spool flanges and printed models. An uncalibrated screen observation, not manufacturer numeric HEX or measured albedo.",
+        "checkedOn": "2026-10-28",
+        "imageSha256": "172598b78199bdb0bcbc15ee45dd5ab85121e6f2d660daa3cd165048d5f97423",
+        "sampleRegion": "[240,250,380,450]",
+        "catalogOrder": 5177
+      }
     }
   ]
 }

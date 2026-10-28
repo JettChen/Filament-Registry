@@ -6747,6 +6747,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://us.snapmaker.com/products/matte-pla-filament",
+          "https://shop.snapmaker.com/products/matte-pla-filament-without-rfid-1kg"
+        ],
+        "finding": "The RFID official-product JSON capture associates Ash Grey (485155) with SKU 34083, supporting the existing #485155 option for that material. The current non-RFID page confirms its product identity but its extracted variant/color block is contaminated by an RFID Matte PLA cart/recommendation block; it does not verify non-RFID SKU 34053 or #9B9EA0. Keep RFID and non-RFID materials separate and preserve both existing values; do not collapse them based on similar labels or adjacent page content.",
+        "method": "Read current official product pages and inspected the prior raw RFID Shopify JSON capture for exact option title, SKU and variant. Did not retry the non-RFID product.js endpoint after the reported HTTP 429. Excluded the RFID cart/recommended product block on the non-RFID page as evidence for that SKU."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-snapmaker-pla-matte-34083",

@@ -39868,16 +39868,32 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-apollox-v-90f7a39c159a",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/apollox",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/asa",
+          "https://www.formfutura.com/apollox"
+        ],
+        "finding": "The current product-specific color controls (2921) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-apollox-v-90f7a39c159a",
@@ -39908,16 +39924,32 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-apollox-v-9455b7268303",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/apollox",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/asa",
+          "https://www.formfutura.com/apollox"
+        ],
+        "finding": "The current product-specific color controls (2927) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-apollox-v-9455b7268303",
@@ -40108,16 +40140,32 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-apollox-kevlar-v-8626c4943796",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/apollox-kevlar",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/asa",
+          "https://www.formfutura.com/apollox-kevlar"
+        ],
+        "finding": "The current product-specific color controls (3533) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-apollox-kevlar-v-8626c4943796",
@@ -40148,16 +40196,32 @@
       "components": [
         "#F9FDDD"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-apollox-kevlar-v-3dcd3239e2ba",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/apollox-kevlar",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/asa",
+          "https://www.formfutura.com/apollox-kevlar"
+        ],
+        "finding": "The current product-specific color controls (3539) match the retained Natural display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-apollox-kevlar-v-3dcd3239e2ba",
@@ -40188,16 +40252,32 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-apollox-foaming-v-13450f1f8510",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/asa/apollox-foaming",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/asa",
+          "https://www.formfutura.com/filaments/asa/apollox-foaming"
+        ],
+        "finding": "The current product-specific color controls (4301) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-apollox-foaming-v-13450f1f8510",
@@ -40228,16 +40308,32 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-apollox-foaming-v-a7376fc8b98a",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/asa/apollox-foaming",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/asa",
+          "https://www.formfutura.com/filaments/asa/apollox-foaming"
+        ],
+        "finding": "The current product-specific color controls (4302) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-apollox-foaming-v-a7376fc8b98a",
@@ -40308,16 +40404,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-tough-pla-c1da0e84c929",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/tough-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/tough-pla"
+        ],
+        "finding": "The current product-specific color controls (2848) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-tough-pla-c1da0e84c929",
@@ -40342,16 +40453,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-tough-pla-263009d825cc",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/tough-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/tough-pla"
+        ],
+        "finding": "The current product-specific color controls (2853) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-tough-pla-263009d825cc",
@@ -40396,16 +40522,31 @@
       "components": [
         "#434B4D"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-tough-pla-94dd30e7c734",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/tough-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/tough-pla"
+        ],
+        "finding": "The current product-specific color controls (2850) match the retained Grey display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-tough-pla-94dd30e7c734",
@@ -40430,16 +40571,31 @@
       "components": [
         "#F9FDDD"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-tough-pla-f1464a4249ed",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/tough-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/tough-pla"
+        ],
+        "finding": "The current product-specific color controls (2851) match the retained Natural display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-tough-pla-f1464a4249ed",
@@ -40484,16 +40640,31 @@
       "components": [
         "#CC0605"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-tough-pla-0f94628599d5",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/tough-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/tough-pla"
+        ],
+        "finding": "The current product-specific color controls (2852) match the retained Red display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-tough-pla-0f94628599d5",
@@ -41118,16 +41289,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-python-flex-tpu-90a-937269f13ed4",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/python-flex-tpu-90a",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/python-flex-tpu-90a"
+        ],
+        "finding": "The current product-specific color controls (3387) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-python-flex-tpu-90a-937269f13ed4",
@@ -41172,16 +41358,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-python-flex-tpu-90a-19ac4b078a27",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/python-flex-tpu-90a",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/python-flex-tpu-90a"
+        ],
+        "finding": "The current product-specific color controls (3388) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-python-flex-tpu-90a-19ac4b078a27",
@@ -41826,16 +42027,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-apollox-cf10-71f8540c23f5",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/apollox-cf10",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/apollox-cf10"
+        ],
+        "finding": "The current product-specific color controls (3524) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-apollox-cf10-71f8540c23f5",
@@ -41860,16 +42076,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-bulk-pla-9dff8d0512e4",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/bulk-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/bulk-pla"
+        ],
+        "finding": "The current product-specific color controls (7096) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-bulk-pla-9dff8d0512e4",
@@ -41914,16 +42145,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-bulk-pla-92454cfcd26c",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/bulk-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/bulk-pla"
+        ],
+        "finding": "The current product-specific color controls (7097) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-bulk-pla-92454cfcd26c",
@@ -42008,16 +42254,31 @@
       "components": [
         "#A5A5A5"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-bulk-pla-9b2898c29702",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/bulk-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/bulk-pla"
+        ],
+        "finding": "The current product-specific color controls (7209) match the retained Silver display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-bulk-pla-9b2898c29702",
@@ -42268,16 +42529,32 @@
       "components": [
         "#F75E25"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-transparent-pla-39a6acf02b92",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/transparent-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/transparent-pla",
+          "https://www.formfutura.com/filaments/pla/transparent-pla"
+        ],
+        "finding": "The current product-specific color controls (7277) match the retained Orange display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-transparent-pla-39a6acf02b92",
@@ -43414,16 +43691,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-titanx-0f9b22236a40",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/titanx",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/titanx"
+        ],
+        "finding": "The current product-specific color controls (2833) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-titanx-0f9b22236a40",
@@ -43448,16 +43740,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-titanx-6eb7c4a22bad",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/titanx",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/titanx"
+        ],
+        "finding": "The current product-specific color controls (2839) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-titanx-6eb7c4a22bad",
@@ -43502,16 +43809,31 @@
       "components": [
         "#434B4D"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-titanx-319d95f50c96",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/titanx",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/titanx"
+        ],
+        "finding": "The current product-specific color controls (2835) match the retained Grey display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-titanx-319d95f50c96",
@@ -43536,16 +43858,31 @@
       "components": [
         "#F9FDDD"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-titanx-38af33f58ab8",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/titanx",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/titanx"
+        ],
+        "finding": "The current product-specific color controls (2837) match the retained Natural display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-titanx-38af33f58ab8",
@@ -43610,16 +43947,31 @@
       "components": [
         "#CC0605"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-titanx-313f7ca389ff",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/titanx",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/titanx"
+        ],
+        "finding": "The current product-specific color controls (2838) match the retained Red display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-titanx-313f7ca389ff",
@@ -44104,16 +44456,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-carbonfil-7511d2017285",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/carbonfil",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/carbonfil"
+        ],
+        "finding": "The current product-specific color controls (2959) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-carbonfil-7511d2017285",
@@ -44138,16 +44505,31 @@
       "components": [
         "#434B4D"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-carbonfil-1f2d05c96e50",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/carbonfil",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/carbonfil"
+        ],
+        "finding": "The current product-specific color controls (2961) match the retained Grey display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-carbonfil-1f2d05c96e50",
@@ -44172,16 +44554,31 @@
       "components": [
         "#439D43"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-carbonfil-e20c15ae5810",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/carbonfil",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/carbonfil"
+        ],
+        "finding": "The current product-specific color controls (2960) match the retained Green display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-carbonfil-e20c15ae5810",
@@ -44666,16 +45063,31 @@
       "components": [
         "#439D43"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-easyfil-pla-glow-in-the-dark-825912aab4ba",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/easyfil-pla-glow-in-the-dark",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/easyfil-pla-glow-in-the-dark"
+        ],
+        "finding": "The current product-specific color controls (2437) match the retained Green display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-easyfil-pla-glow-in-the-dark-825912aab4ba",
@@ -44700,16 +45112,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-abspro-flame-retardant-4198218c865b",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/abs/abspro-flame-retardant",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/abs/abspro-flame-retardant"
+        ],
+        "finding": "The current product-specific color controls (12) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-abspro-flame-retardant-4198218c865b",
@@ -44734,16 +45161,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-abspro-flame-retardant-0c3fb633d989",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/abs/abspro-flame-retardant",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/abs/abspro-flame-retardant"
+        ],
+        "finding": "The current product-specific color controls (3406) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-abspro-flame-retardant-0c3fb633d989",
@@ -44768,16 +45210,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-volcano-pla-4d11352757a3",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/volcano-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/volcano-pla"
+        ],
+        "finding": "The current product-specific color controls (2861) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-volcano-pla-4d11352757a3",
@@ -44802,16 +45259,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-volcano-pla-354abe9a62d3",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/volcano-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/volcano-pla"
+        ],
+        "finding": "The current product-specific color controls (2868) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-volcano-pla-354abe9a62d3",
@@ -44936,16 +45408,31 @@
       "components": [
         "#CC0605"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-volcano-pla-e96e8c7797f3",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/volcano-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/volcano-pla"
+        ],
+        "finding": "The current product-specific color controls (2866) match the retained Red display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-volcano-pla-e96e8c7797f3",
@@ -45690,16 +46177,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-bulk-petg-6facb15c0560",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/bulk-petg",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/bulk-petg"
+        ],
+        "finding": "The current product-specific color controls (7115) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-bulk-petg-6facb15c0560",
@@ -45724,16 +46226,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-bulk-petg-8fdc9f2cdf01",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/bulk-petg",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/bulk-petg"
+        ],
+        "finding": "The current product-specific color controls (7116) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-bulk-petg-8fdc9f2cdf01",
@@ -45798,16 +46315,31 @@
       "components": [
         "#FAD201"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-bulk-petg-746596160473",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/bulk-petg",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/bulk-petg"
+        ],
+        "finding": "The current product-specific color controls (7207) match the retained Yellow display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-bulk-petg-746596160473",
@@ -45832,16 +46364,31 @@
       "components": [
         "#20214F"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-bulk-petg-d97237dcab88",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/bulk-petg",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/bulk-petg"
+        ],
+        "finding": "The current product-specific color controls (7203) match the retained Blue display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-bulk-petg-d97237dcab88",
@@ -45886,16 +46433,31 @@
       "components": [
         "#CC0605"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-bulk-petg-2010059eafb2",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/bulk-petg",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/bulk-petg"
+        ],
+        "finding": "The current product-specific color controls (7204) match the retained Red display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-bulk-petg-2010059eafb2",
@@ -45920,16 +46482,31 @@
       "components": [
         "#A5A5A5"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-bulk-petg-9708e5a844bb",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/bulk-petg",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/bulk-petg"
+        ],
+        "finding": "The current product-specific color controls (7205) match the retained Silver display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-bulk-petg-9708e5a844bb",
@@ -46114,16 +46691,31 @@
       "components": [
         "#F9FDDD"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-premium-abs-medical-b8a3525b0f1d",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/premium-abs-medical",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/premium-abs-medical"
+        ],
+        "finding": "The current product-specific color controls (7145) match the retained Natural display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-premium-abs-medical-b8a3525b0f1d",
@@ -46148,16 +46740,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-4b427516300b",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (2535) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-4b427516300b",
@@ -46182,16 +46789,31 @@
       "components": [
         "#FAD201"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-f6f3dd74ae9c",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (2536) match the retained Yellow display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-f6f3dd74ae9c",
@@ -46216,16 +46838,31 @@
       "components": [
         "#20214F"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-e4ad3a90dbed",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (2528) match the retained Blue display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-e4ad3a90dbed",
@@ -46250,16 +46887,31 @@
       "components": [
         "#716746"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-ce475d9adc3f",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (3568) match the retained Brass display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-ce475d9adc3f",
@@ -46284,16 +46936,31 @@
       "components": [
         "#AA955A"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-ab6e1ad0c89a",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (3569) match the retained Bronze display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-ab6e1ad0c89a",
@@ -46338,16 +47005,31 @@
       "components": [
         "#D6AE01"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-f2948a6ea6e5",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (2529) match the retained Gold display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-f2948a6ea6e5",
@@ -46372,16 +47054,31 @@
       "components": [
         "#439D43"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-4d69337eba37",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (2530) match the retained Green display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-4d69337eba37",
@@ -46426,16 +47123,31 @@
       "components": [
         "#DE4C8A"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-3d554d5295ec",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (2532) match the retained Pink display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-3d554d5295ec",
@@ -46460,16 +47172,31 @@
       "components": [
         "#A03472"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-8ac3915dfd20",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (2533) match the retained Purple display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-8ac3915dfd20",
@@ -46494,16 +47221,31 @@
       "components": [
         "#CC0605"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-fc5fefa9ba80",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (3803) match the retained Red display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-fc5fefa9ba80",
@@ -46548,16 +47290,31 @@
       "components": [
         "#A5A5A5"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-high-gloss-pla-4afe74406d0b",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/high-gloss-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/high-gloss-pla"
+        ],
+        "finding": "The current product-specific color controls (2534) match the retained Silver display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-high-gloss-pla-4afe74406d0b",
@@ -46602,16 +47359,31 @@
       "components": [
         "#F9FDDD"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-metalfil-ancient-bronze-fce8890feb57",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/pla/metalfil-ancient-bronze",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/pla/metalfil-ancient-bronze"
+        ],
+        "finding": "The current product-specific color controls (2640) match the retained Natural display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-metalfil-ancient-bronze-fce8890feb57",
@@ -46636,16 +47408,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-reform-rtitan-6bcac1684260",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/abs/reform-rtitan",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/abs/reform-rtitan"
+        ],
+        "finding": "The current product-specific color controls (2813) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-reform-rtitan-6bcac1684260",
@@ -46670,16 +47457,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-reform-rtitan-ccdcbdc3d715",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/abs/reform-rtitan",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/abs/reform-rtitan"
+        ],
+        "finding": "The current product-specific color controls (2814) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-reform-rtitan-ccdcbdc3d715",
@@ -46744,16 +47546,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-carbonfil-cf03-5f422c18ea85",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/carbonfil-cf03",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/carbonfil-cf03"
+        ],
+        "finding": "The current product-specific color controls (3775) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-carbonfil-cf03-5f422c18ea85",
@@ -46778,16 +47595,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-premium-pla-cf03-60f1c010cb70",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/premium-pla-cf03",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/premium-pla-cf03"
+        ],
+        "finding": "The current product-specific color controls (3771) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-premium-pla-cf03-60f1c010cb70",
@@ -47572,16 +48404,31 @@
       "components": [
         "#434B4D"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-apollox-f3166ce7d286",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/apollox",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/apollox"
+        ],
+        "finding": "The current product-specific color controls (2923) match the retained Grey display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-apollox-f3166ce7d286",
@@ -47626,16 +48473,31 @@
       "components": [
         "#F9FDDD"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-apollox-bbbcedabdb5d",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/apollox",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/apollox"
+        ],
+        "finding": "The current product-specific color controls (2925) match the retained Natural display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-apollox-bbbcedabdb5d",
@@ -47700,16 +48562,31 @@
       "components": [
         "#CC0605"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-apollox-2bb5a53e4920",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/apollox",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/apollox"
+        ],
+        "finding": "The current product-specific color controls (2926) match the retained Red display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-apollox-2bb5a53e4920",
@@ -47814,16 +48691,32 @@
       "components": [
         "#F9FDDD"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-metalfil-classic-copper-49e9d781266f",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/metalfil-classic-copper",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/metalfil-classic-copper",
+          "https://www.formfutura.com/filaments/pla/metalfil-classic-copper"
+        ],
+        "finding": "The current product-specific color controls (2646) match the retained Natural display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-metalfil-classic-copper-49e9d781266f",
@@ -47860,16 +48753,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-reform-rapollo-29aedbd06cb4",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/asa/reform-rapollo",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/asa/reform-rapollo"
+        ],
+        "finding": "The current product-specific color controls (2764) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-reform-rapollo-29aedbd06cb4",
@@ -47894,16 +48802,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-reform-rapollo-975e47f13952",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/asa/reform-rapollo",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/asa/reform-rapollo"
+        ],
+        "finding": "The current product-specific color controls (2766) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-reform-rapollo-975e47f13952",
@@ -47968,16 +48891,32 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-reform-rpla-1c3cb952bc49",
       "evidenceKind": "published-display",
       "relationship": "label-only",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/pla/reform-rpla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/pla/reform-rpla",
+          "https://www.formfutura.com/reform-rpla"
+        ],
+        "finding": "The current product-specific color controls (2795) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-reform-rpla-1c3cb952bc49",
@@ -48714,16 +49653,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-python-flex-tpu-98a-c92cdbc6501b",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/python-flex-tpu-98a",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/python-flex-tpu-98a"
+        ],
+        "finding": "The current product-specific color controls (3396) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-python-flex-tpu-98a-c92cdbc6501b",
@@ -48768,16 +49722,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-python-flex-tpu-98a-9b6bdac8371b",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/python-flex-tpu-98a",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/python-flex-tpu-98a"
+        ],
+        "finding": "The current product-specific color controls (3397) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-python-flex-tpu-98a-9b6bdac8371b",
@@ -49102,16 +50071,31 @@
       "components": [
         "#F9FDDD"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-biofil-wood-e5c868f216ae",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/biofil-wood",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/biofil-wood"
+        ],
+        "finding": "The current product-specific color controls (3562) match the retained Natural display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-biofil-wood-e5c868f216ae",
@@ -49296,16 +50280,31 @@
       "components": [
         "#1E1E1E"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-abspro-1d30c35605fe",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/abs/abspro",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/abs/abspro"
+        ],
+        "finding": "The current product-specific color controls (3) match the retained Black display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-abspro-1d30c35605fe",
@@ -49330,16 +50329,31 @@
       "components": [
         "#F6F6F6"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-abspro-95c430bb48dc",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/abs/abspro",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/abs/abspro"
+        ],
+        "finding": "The current product-specific color controls (4) match the retained White display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-abspro-95c430bb48dc",
@@ -49364,16 +50378,31 @@
       "components": [
         "#439D43"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-easyfil-abs-glow-in-the-dark-75c0457a1174",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/easyfil-abs-glow-in-the-dark",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/easyfil-abs-glow-in-the-dark"
+        ],
+        "finding": "The current product-specific color controls (2266) match the retained Green display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-easyfil-abs-glow-in-the-dark-75c0457a1174",
@@ -49498,16 +50527,31 @@
       "components": [
         "#F9FDDD"
       ],
-      "checkedOn": "2026-10-27",
-      "selectionMode": "policy",
+      "checkedOn": "2026-10-28",
+      "selectionMode": "reviewed",
       "sourceMaterialId": "ref-formfutura-refill-pla-181aa347b61f",
       "evidenceKind": "published-display",
       "relationship": "same-product-page-label",
-      "reviewStatus": "source-conflict-retained",
+      "reviewStatus": "screen-reference-only",
       "calibrated": false,
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
-      "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "selectionRule": "Use the exact product-specific color-control literal, not the duplicated generic no_variant selector. Preserve historical observations; no physical color equivalence is asserted.",
+      "reviewedEvidence": {
+        "kind": "manufacturer-literal",
+        "sourceUrl": "https://www.formfutura.com/filaments/refill-pla",
+        "checkedOn": "2026-10-28",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
+      "evidenceReview": {
+        "status": "resolved-display-difference",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://www.formfutura.com/filaments/refill-pla"
+        ],
+        "finding": "The current product-specific color controls (2743) match the retained Natural display. Different literal values occur in the same page's generic no_variant controls, not its product-specific color control.",
+        "method": "Compared each historical observation with exact color/control IDs and literal CSS on this specific current manufacturer product page. Generic controls are not evidence of another physical filament color."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-formfutura-refill-pla-181aa347b61f",

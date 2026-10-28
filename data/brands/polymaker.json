@@ -48861,6 +48861,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/fiberon-pa12-cf10"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-fiberon-pa12-cf10-fg04001",
@@ -48981,6 +48991,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/fiberon-pet-cf17?variant=45679990669369"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-fiberon-pet-cf17-fl01003",
@@ -49161,6 +49181,15 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-fiberon-petg-rcf08-fb04001",
@@ -50863,6 +50892,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/dual-silk-pla"
+        ],
+        "finding": "The exact SKU observations are explicitly split by Polymaker into Old Formula and New Formula variants under the same color name. Each generation has its own published HEX palette; preserve both component arrays as distinct formula references rather than treating one as a correction for the other.",
+        "method": "Matched each SKU to its official workbook exact-SKU row, product name, color name, and HEX; compared the source variant text that identifies old/new formula. Kept the literal per-generation palettes. Screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-dual-silk-pla-ca03024",
@@ -50904,6 +50943,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/dual-silk-pla"
+        ],
+        "finding": "The exact SKU observations are explicitly split by Polymaker into Old Formula and New Formula variants under the same color name. Each generation has its own published HEX palette; preserve both component arrays as distinct formula references rather than treating one as a correction for the other.",
+        "method": "Matched each SKU to its official workbook exact-SKU row, product name, color name, and HEX; compared the source variant text that identifies old/new formula. Kept the literal per-generation palettes. Screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-dual-silk-pla-ca03025",
@@ -50945,6 +50994,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/dual-silk-pla"
+        ],
+        "finding": "The exact SKU observations are explicitly split by Polymaker into Old Formula and New Formula variants under the same color name. Each generation has its own published HEX palette; preserve both component arrays as distinct formula references rather than treating one as a correction for the other.",
+        "method": "Matched each SKU to its official workbook exact-SKU row, product name, color name, and HEX; compared the source variant text that identifies old/new formula. Kept the literal per-generation palettes. Screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-dual-silk-pla-ca03026",
@@ -50986,6 +51045,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/dual-silk-pla"
+        ],
+        "finding": "The exact SKU observations are explicitly split by Polymaker into Old Formula and New Formula variants under the same color name. Each generation has its own published HEX palette; preserve both component arrays as distinct formula references rather than treating one as a correction for the other.",
+        "method": "Matched each SKU to its official workbook exact-SKU row, product name, color name, and HEX; compared the source variant text that identifies old/new formula. Kept the literal per-generation palettes. Screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-dual-silk-pla-ca03027",
@@ -51027,6 +51096,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/dual-silk-pla"
+        ],
+        "finding": "The exact SKU observations are explicitly split by Polymaker into Old Formula and New Formula variants under the same color name. Each generation has its own published HEX palette; preserve both component arrays as distinct formula references rather than treating one as a correction for the other.",
+        "method": "Matched each SKU to its official workbook exact-SKU row, product name, color name, and HEX; compared the source variant text that identifies old/new formula. Kept the literal per-generation palettes. Screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-dual-silk-pla-ca03028",
@@ -51068,6 +51147,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/dual-silk-pla"
+        ],
+        "finding": "The exact SKU observations are explicitly split by Polymaker into Old Formula and New Formula variants under the same color name. Each generation has its own published HEX palette; preserve both component arrays as distinct formula references rather than treating one as a correction for the other.",
+        "method": "Matched each SKU to its official workbook exact-SKU row, product name, color name, and HEX; compared the source variant text that identifies old/new formula. Kept the literal per-generation palettes. Screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-dual-silk-pla-ca03029",
@@ -51109,6 +51198,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/dual-silk-pla"
+        ],
+        "finding": "The exact SKU observations are explicitly split by Polymaker into Old Formula and New Formula variants under the same color name. Each generation has its own published HEX palette; preserve both component arrays as distinct formula references rather than treating one as a correction for the other.",
+        "method": "Matched each SKU to its official workbook exact-SKU row, product name, color name, and HEX; compared the source variant text that identifies old/new formula. Kept the literal per-generation palettes. Screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-dual-silk-pla-ca03030",
@@ -51192,6 +51291,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/galaxy-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-galaxy-pla-ca02025",
@@ -51228,6 +51337,17 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/galaxy-pla?variant=43613183574073",
+          "https://shop.polymaker.com/products/galaxy-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-galaxy-pla-pa02097",
@@ -51308,6 +51428,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/glow-pla"
+        ],
+        "finding": "Published data assigns distinct day/activated-state components to an optical-effect filament; the observed component-count mismatch is a state representation, not evidence that one color value is wrong.",
+        "method": "Compared exact SKU and product/color rows in the official Hex and TD workbook with the supplied live Shopify variant observations. Component tuples are preserved as published; screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-glow-pla-ca02029",
@@ -51345,6 +51475,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/glow-pla"
+        ],
+        "finding": "Published data assigns distinct day/activated-state components to an optical-effect filament; the observed component-count mismatch is a state representation, not evidence that one color value is wrong.",
+        "method": "Compared exact SKU and product/color rows in the official Hex and TD workbook with the supplied live Shopify variant observations. Component tuples are preserved as published; screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-glow-pla-ca02030",
@@ -53925,6 +54065,15 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-satin-pla-ca05002",
@@ -54137,6 +54286,15 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-satin-pla-ca05011",
@@ -54201,6 +54359,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03002",
@@ -54243,6 +54411,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03003",
@@ -54285,6 +54463,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03004",
@@ -54327,6 +54515,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03005",
@@ -54369,6 +54567,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03006",
@@ -54411,6 +54619,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03007",
@@ -54453,6 +54671,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03008",
@@ -54495,6 +54723,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03009",
@@ -54537,6 +54775,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03010",
@@ -54579,6 +54827,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03011",
@@ -54621,6 +54879,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03012",
@@ -54685,6 +54953,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03014",
@@ -54727,6 +55005,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03015",
@@ -54769,6 +55057,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03016",
@@ -54811,6 +55109,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03017",
@@ -54853,6 +55161,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03018",
@@ -54895,6 +55213,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03019",
@@ -54937,6 +55265,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03020",
@@ -54979,6 +55317,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03021",
@@ -55021,6 +55369,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03031",
@@ -55063,6 +55421,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03032",
@@ -55105,6 +55473,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/silk-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-silk-pla-ca03033",
@@ -55477,6 +55855,17 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/translucent-pla?variant=46315863212089",
+          "https://shop.polymaker.com/products/translucent-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-translucent-pla-pc1001038",
@@ -55513,6 +55902,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/uv-shift-pla"
+        ],
+        "finding": "Published data assigns distinct day/activated-state components to an optical-effect filament; the observed component-count mismatch is a state representation, not evidence that one color value is wrong.",
+        "method": "Compared exact SKU and product/color rows in the official Hex and TD workbook with the supplied live Shopify variant observations. Component tuples are preserved as published; screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-panchroma-uv-shift-pla-ca02023",
@@ -56408,6 +56807,15 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-polylite-pc-pc01001",
@@ -57054,6 +57462,15 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-polymax-pc-pc02001",
@@ -57100,6 +57517,15 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-polymax-pc-pc02002",
@@ -57286,6 +57712,17 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/polymax-pla?variant=46478188609593",
+          "https://shop.polymaker.com/products/polymax-pla"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-polymax-pla-pm70842",
@@ -57338,6 +57775,15 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-polymax-pla-pa06002",
@@ -59404,6 +59850,15 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances"
+        ],
+        "finding": "The official workbook exact-SKU row 622 lists PC04002, Polymaker PC-ABS, White, #DDD6D4; row 876 lists PM70255, PolyMaker PC-ABS, White, #161619. This confirms a numeric contradiction in Polymaker’s published workbook for exact-SKU entries both labeled White, but does not establish which HEX is wrong.",
+        "method": "Compared exact workbook SKU rows 622 (PC04002) and 876 (PM70255), including product name, color name, and HEX fields, against current per-SKU registry observations. The contradiction is source-level; no claim is made that a row extraction or parsing error occurred."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-polymaker-pc-abs-pc04002",
@@ -59478,6 +59933,16 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-variant-scope",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/petg"
+        ],
+        "finding": "The exact SKU observations are explicitly split by Polymaker into Old Formula and New Formula variants under the same color name. Each generation has its own published HEX palette; preserve both component arrays as distinct formula references rather than treating one as a correction for the other.",
+        "method": "Matched each SKU to its official workbook exact-SKU row, product name, color name, and HEX; compared the source variant text that identifies old/new formula. Kept the literal per-generation palettes. Screen RGB is not calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-polymaker-petg-pb05003",
@@ -61642,6 +62107,17 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/polylite-pla-pro?variant=39574346760249",
+          "https://shop.polymaker.com/products/polylite-pla-pro"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-polylite-pla-pro-pa07013",
@@ -61688,6 +62164,17 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/polylite-pla-pro?variant=39574346793017",
+          "https://shop.polymaker.com/products/polylite-pla-pro"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-polylite-pla-pro-pa07014",
@@ -61974,6 +62461,17 @@
       "renderBaseColorHex": null,
       "physicalEquivalence": "not-asserted",
       "selectionRule": "Prefer explicit published RGB, then community/retained display evidence, then image samples. Equal-rank ties use independent-observation support, then catalog order. Conflicts remain disclosed; no physical equivalence is inferred.",
+      "evidenceReview": {
+        "status": "pending-upstream-verification",
+        "checkedOn": "2026-10-28",
+        "sourceUrls": [
+          "https://wiki.polymaker.com/polymaker-products/more-about-our-products/hex-codes-and-transmission-distances",
+          "https://shop.polymaker.com/products/polylite-pla-pro?variant=39574346825785",
+          "https://shop.polymaker.com/products/polylite-pla-pro"
+        ],
+        "finding": "The supplied observations and exact-SKU workbook rows document distinct literal HEX values for the listed product/color entries, but available primary evidence does not establish whether the difference is a corrected reference, package/generation difference, or an upstream row error.",
+        "method": "Cross-checked supplied observation codes against the official manufacturer workbook using exact SKU, Product Name, Color Name, HEX, and TD columns. Reviewed current official HEX documentation for measurement-method caveat; compared listed official Shopify product/variant links where provided. Did not treat display RGB as calibrated albedo."
+      },
       "conflictingObservations": [
         {
           "materialId": "ref-polymaker-polylite-pla-pro-pa07015",
