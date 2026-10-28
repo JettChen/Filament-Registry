@@ -1,0 +1,35 @@
+{
+  "format": "ussa-filament-publication-sources/1",
+  "decisions": [
+    {
+      "id": "spoolmandb",
+      "status": "notice-carried",
+      "basis": "Pinned root MIT and database-source README; complete original notice retained.",
+      "notice": "licenses/SpoolmanDB-MIT.txt"
+    },
+    {
+      "id": "software-palettes",
+      "status": "notice-carried",
+      "basis": "Identified upstream-covered palette portions are distributed under AGPL-3.0, not relicensed under MIT. Exact corresponding JSON sources, original license and public revision links are included. Canonical Registry projection/annotation changes are identified in THIRD_PARTY_NOTICES.md.",
+      "notice": "licenses/AGPL-3.0.txt"
+    },
+    {
+      "id": "filamentcolors",
+      "status": "factual-scope-recorded",
+      "basis": "Included scope is selected numeric color measurements, product identifiers and source citations in the independently structured Registry, not software, source photos or the original database arrangement. Public API reuse/caching is encouraged upstream. No ownership of individual facts or blanket license to the upstream database is asserted.",
+      "evidenceUrl": "https://github.com/itsthejoker/filamentcolors.xyz"
+    },
+    {
+      "id": "manufacturer-tables",
+      "status": "factual-scope-recorded",
+      "basis": "Included scope is product identity and numerical display facts projected into the Registry schema with citations. Original workbooks, formatted tables, photos and marketing expression are absent. Source access terms and database rights are not represented as an affirmative publisher permission; the release grants only project-held rights.",
+      "evidenceUrl": "https://www.copyright.gov/circs/circ14.pdf"
+    },
+    {
+      "id": "other-source-references",
+      "status": "factual-scope-recorded",
+      "basis": "Release includes retained source-labelled product facts and scalar display references, not copied website software, images or marketing text. Historical and uncertain references keep their provenance/status. RAL-labelled manufacturer products are not presented as an official RAL digital palette. No third-party trademark or source-database license is granted.",
+      "evidenceUrl": "https://www.copyright.gov/circs/circ33.pdf"
+    }
+  ]
+}

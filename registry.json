@@ -1,0 +1,197 @@
+{
+  "format": "ussa-filament-registry/2",
+  "catalogVersion": "0.1.2",
+  "checkedOn": "2026-10-27",
+  "sourceAppCommit": "a90322aa3ba8b0b7a8a327cdbc5afea5adcb0d2f",
+  "sourceAppIssue": 532,
+  "previousRegistryCommit": "670d2217b7bc0561ca8171362f0dbba8e7a966c4",
+  "sourceMetadata": {
+    "expandedCatalog": {
+      "checkedOn": "2026-10-27",
+      "coverage": {
+        "checkedOn": "2026-10-27",
+        "additionalRegisteredRows": 9962,
+        "additionalSelectableRows": 9610,
+        "byBrand": {
+          "Anycubic": 358,
+          "Elegoo": 463,
+          "Creality": 175,
+          "Snapmaker": 92,
+          "SUNLU": 808,
+          "Polymaker": 1249,
+          "eSUN": 729,
+          "Prusament": 114,
+          "HATCHBOX": 415,
+          "OVERTURE": 439,
+          "Printed Solid": 57,
+          "Spectrum": 888,
+          "3D-Fuel": 175,
+          "Fiberlogy": 429,
+          "Flashforge": 173,
+          "Atomic Filament": 248,
+          "colorFabb": 408,
+          "Fillamentum": 172,
+          "Proto-pasta": 172,
+          "AzureFilm": 417,
+          "Recreus": 87,
+          "FormFutura": 888,
+          "Extrudr": 651,
+          "Bambu Lab": 62,
+          "BASF / Forward AM / Ultrafuse": 57,
+          "The Filament": 235,
+          "Lehvoss": 1
+        },
+        "unknownDisplayReferences": 7166,
+        "preservedOriginalAdditionIds": 1494,
+        "polymakerCurrentVariants": 960,
+        "polymakerRetainedReferences": 288
+      }
+    }
+  },
+  "files": {
+    "brands/3d-fuel.json": {
+      "brand": "3D-Fuel",
+      "sha256": "76cc71281f3beac5c8b7b1f7f32554aa8abca1579af0f388a87e0a736e06980c",
+      "bytes": 277767
+    },
+    "brands/anycubic.json": {
+      "brand": "Anycubic",
+      "sha256": "ab0c1720c092b6a2c39a26b05dcee7c67057506efbf074089396e13eb2c12a41",
+      "bytes": 552275
+    },
+    "brands/atomic-filament.json": {
+      "brand": "Atomic Filament",
+      "sha256": "8bc45a919568d98eafca28da429c26eed86f92271673f3a6930ccb3f5d02eafa",
+      "bytes": 546956
+    },
+    "brands/azurefilm.json": {
+      "brand": "AzureFilm",
+      "sha256": "a0bee23f8be93eb0f3c37651d22ec92a0c31752df83b05abb797ed762174cca2",
+      "bytes": 714528
+    },
+    "brands/bambu-lab.json": {
+      "brand": "Bambu Lab",
+      "sha256": "5ad219fc4a211af4a40a4915538d1d59866f4429819e374da60f42f3de75349e",
+      "bytes": 547366
+    },
+    "brands/basf-forward-am-ultrafuse.json": {
+      "brand": "BASF / Forward AM / Ultrafuse",
+      "sha256": "5189249769781c825760d623535a980f441a1bf8b12dce72bb54050804c72d64",
+      "bytes": 178708
+    },
+    "brands/colorfabb.json": {
+      "brand": "colorFabb",
+      "sha256": "8678978fe90fc4fb63c1d992edc5972701ecf245daeec8877676b74e8e7db6b3",
+      "bytes": 832765
+    },
+    "brands/creality.json": {
+      "brand": "Creality",
+      "sha256": "f5a2753609d7ac70f20c0c4f1fb8d9b3d15f1494adf91c6a34e8218cd3d0f4d1",
+      "bytes": 309752
+    },
+    "brands/elegoo.json": {
+      "brand": "Elegoo",
+      "sha256": "2c4ec24a163ba45fa3bb3842587f5dedf59c2fa519180d93eca904218af638e5",
+      "bytes": 1286719
+    },
+    "brands/esun.json": {
+      "brand": "eSUN",
+      "sha256": "3fc6d07d213826f55b3714cbc9c8cfbf65222707fcafff7efdc7e7a40ace49d4",
+      "bytes": 849797
+    },
+    "brands/extrudr.json": {
+      "brand": "Extrudr",
+      "sha256": "537c557d3533741abc0de4624a268a83afa2b75597bc4f95c1e0255f53a2970a",
+      "bytes": 1563448
+    },
+    "brands/fiberlogy.json": {
+      "brand": "Fiberlogy",
+      "sha256": "9f5d657abb3bd3d1a2a470366f9fc49d71c4c039d4d5193c8d86c743ad2586a4",
+      "bytes": 781927
+    },
+    "brands/fillamentum.json": {
+      "brand": "Fillamentum",
+      "sha256": "5cd401f4d714bd9ed903cf1e459ebacf97e9ff5bd3cddeb919c604e5d2ffeced",
+      "bytes": 448846
+    },
+    "brands/flashforge.json": {
+      "brand": "Flashforge",
+      "sha256": "ede4dc31295e92f16dc36c7eeb183047acc9f8113ea6e73c59d34612f1685369",
+      "bytes": 349848
+    },
+    "brands/formfutura.json": {
+      "brand": "FormFutura",
+      "sha256": "b412de79976645fe282df212bc10e0cbdddd6636d8c777cd87c21b6cb35f5c23",
+      "bytes": 1223367
+    },
+    "brands/hatchbox.json": {
+      "brand": "HATCHBOX",
+      "sha256": "0605d9abcedef728c4f6137b91948fa55bfb926290832127bff30862773f1033",
+      "bytes": 1023260
+    },
+    "brands/lehvoss.json": {
+      "brand": "Lehvoss",
+      "sha256": "cc2c224d724a4ead85ca568ee897923dfa054ff8b764834ae8b6e0904b2b2df2",
+      "bytes": 3314
+    },
+    "brands/overture.json": {
+      "brand": "OVERTURE",
+      "sha256": "c33f972fe58e5a3c7e3a5cc69a24551e3880d1f99ec155d4f985f824ab00b9ed",
+      "bytes": 954946
+    },
+    "brands/polymaker.json": {
+      "brand": "Polymaker",
+      "sha256": "28fa33c819b9fbb8db74fe7287e00b9c121844844a6ba43c179fc9c3880ecd77",
+      "bytes": 2280255
+    },
+    "brands/printed-solid.json": {
+      "brand": "Printed Solid",
+      "sha256": "3fa614a98373a5adcdaa8a3ee21a2129ee90518b118370be27107f4b942a611f",
+      "bytes": 106462
+    },
+    "brands/proto-pasta.json": {
+      "brand": "Proto-pasta",
+      "sha256": "befae010fef365d13e93ca633d0dc115622135264d228746d82f1b978415f72f",
+      "bytes": 474697
+    },
+    "brands/prusament.json": {
+      "brand": "Prusament",
+      "sha256": "3b41023106ec2a3fcfc4166130fb50818f0e71fc251bee64b7b248f08824c14b",
+      "bytes": 222988
+    },
+    "brands/recreus.json": {
+      "brand": "Recreus",
+      "sha256": "2bbba1de646fc277f885052e9935cf356c42d16222a11845ae9786ee4f374fcc",
+      "bytes": 230695
+    },
+    "brands/snapmaker.json": {
+      "brand": "Snapmaker",
+      "sha256": "8cfca1198bae251583f63c4684022a3549582e6a168790025e0a6f535a5d581a",
+      "bytes": 199736
+    },
+    "brands/spectrum.json": {
+      "brand": "Spectrum",
+      "sha256": "4a994a7390331f67f576ed8dc639311c999e4840b9a50b8838c01b0cc98a2953",
+      "bytes": 2004084
+    },
+    "brands/sunlu.json": {
+      "brand": "SUNLU",
+      "sha256": "ab9a8d19d954f30ba641bacb8ade5850d82c5f15f855ce84d949d767f48acc99",
+      "bytes": 1274317
+    },
+    "brands/the-filament.json": {
+      "brand": "The Filament",
+      "sha256": "fdcc9f19236fb6f8f969f26cf9a77c5b155d3fb1d26068fd4e684c4c5c74ea14",
+      "bytes": 617558
+    }
+  },
+  "counts": {
+    "registeredIdentities": 10357,
+    "inventoryProductLines": 934,
+    "displayReferences": 7388,
+    "selectableReferences": 9991,
+    "browsingLines": 900,
+    "brands": 27
+  },
+  "name": "USSA Filament Registry"
+}

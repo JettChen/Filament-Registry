@@ -1,0 +1,63 @@
+{
+  "format": "ussa-filament-brand/1",
+  "brand": "Lehvoss",
+  "checkedOn": "2026-10-27",
+  "records": [
+    {
+      "id": "colorfabb-6729",
+      "brand": "Lehvoss",
+      "productLine": "Luvocom 3F PET CF 9780",
+      "polymer": "PET",
+      "colorName": null,
+      "sourceCode": "LUV010002",
+      "codeKind": "sku",
+      "displayHex": null,
+      "displayComponents": [],
+      "variantLabel": "Luvocom 3F PET CF 9780 BK",
+      "displaySource": "Approximate exact colorFabb retailer product-image display reference",
+      "effects": [],
+      "sourceUrl": "https://colorfabb.com/luvocom-3f-pet-cf-9780-bk",
+      "codeSourceUrl": "https://colorfabb.com/luvocom-3f-pet-cf-9780-bk",
+      "lineSourceUrl": "https://colorfabb.com/luvocom-3f-pet-cf-9780-bk",
+      "polymerSourceUrl": "https://colorfabb.com/luvocom-3f-pet-cf-9780-bk",
+      "effectSourceUrls": [],
+      "checkedOn": "2026-10-27",
+      "evidenceKind": "third-party",
+      "selectable": true,
+      "currentColorVerified": false,
+      "note": "Current official colorFabb catalog product ID 6729; source SKU LUV010002 retained as SKU, not mistaken for the numeric product ID. The official page does not publish a named color selector or HEX; display RGB is an approximate visual sample from its exact product-specific image. Studio lighting and surface texture are not colorimetry. The colorFabb catalog's manufacturer/brand filter identifies LEHVOSS; LUVOCOM is the product family shown in the exact product title. Retailer offer: colorFabb is the seller and source of this product/image. The Reference SKU is the seller catalog SKU, not an asserted upstream manufacturer SKU; no identity equivalence to another manufacturer entry is claimed.",
+      "catalogOrder": 9400
+    }
+  ],
+  "productLines": [
+    {
+      "brand": "Lehvoss",
+      "series": "Luvocom 3F PET CF 9780",
+      "family": "PET-CF",
+      "sourceUrl": "https://colorfabb.com/luvocom-3f-pet-cf-9780-bk",
+      "note": "Current colorFabb catalog product page; catalog brand filter identifies Lehvoss; LUVOCOM product family retained from title.",
+      "catalogOrder": 907
+    }
+  ],
+  "displayReferences": [
+    {
+      "id": "colorfabb-6729",
+      "components": [
+        "#272325"
+      ],
+      "kind": "community",
+      "sourceUrl": "https://colorfabb.com/media/catalog/product/l/u/luvocom_pet_cf.jpg",
+      "providerId": "colorFabb retailer catalog",
+      "method": "Approximate display RGB: per-channel median of pixels in the recorded ROI on the exact official product image, decoded with Pillow RGB. ROI is on exposed filament winding. Studio lighting and texture are not colorimetry.",
+      "checkedOn": "2026-10-27",
+      "imageSha256": "70949ec2b9678f35e38c86e858b9df4d8e6ab540a0d6ac440314aaec921c1a36",
+      "imageUrl": "https://colorfabb.com/media/catalog/product/l/u/luvocom_pet_cf.jpg",
+      "sampleRegion": "[450,500,470,520]",
+      "note": "Exact product image for official product ID 6729, SKU LUV010002; source bytes retained in the external audit bundle. No manufacturer color name or published HEX is claimed. Image is published by retailer colorFabb for this exact seller offer; upstream manufacturer RGB/SKU is not asserted.",
+      "sourceCaveat": true,
+      "catalogOrder": 6519
+    }
+  ],
+  "unresolved": [],
+  "browsingAliases": []
+}
